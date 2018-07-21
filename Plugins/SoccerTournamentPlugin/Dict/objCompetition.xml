@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<d2p1:CompetitionDto xmlns:d2p1="http://schemas.datacontract.org/2004/07/Deltatre.DigitalMedia.APIs.FIFA.DTO.Competition.CompetitionList">
+  <d2p1:Competition>FIFAWC</d2p1:Competition>
+  <d2p1:CompetitionTypeId>17</d2p1:CompetitionTypeId>
+  <d2p1:Id>251164</d2p1:Id>
+  <d2p1:Name>2014 FIFA World Cup Brazil ™</d2p1:Name>
+  <d2p1:Season>2014</d2p1:Season>
+  <d2p1:ShortName>Brazil 2014</d2p1:ShortName>
+</d2p1:CompetitionDto>

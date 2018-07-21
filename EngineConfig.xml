@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EngineConfig>
+
+  <Downloaders>  
+
+
+   <Downloader class="SoccerTournamentPluginLib.SoccerTournamentDownloader" libPath="SoccerTournamentPluginLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=52d4ffd5c58f228b" id="6000" enable="true" pollPeriod="1000">
+     <TournamentStats>
+       <schedule type="Milliseconds" runevery="30000" />
+     </TournamentStats>
+
+     <MatchStats>
+       <schedule type="Milliseconds" runevery="30000" />
+     </MatchStats>     
+   </Downloader>
+
+ 
+  </Downloaders>
+    
+  <Uploaders>
+
+    <Uploader id="800" name="SoccerTournament">
+      <iPackager enable="false">
+        <carousel>Test1</carousel>
+        <host>10.100.10.130:8080</host>
+        <outputfile id="1" checkMd5="false" folder="dataDir" filename="wc_calendar.js" />
+        <outputfile id="2" checkMd5="false" folder="dataDir" filename="wc_stats.js" />
+        <outputfile id="3" checkMd5="false" folder="dataDir" filename="wc_teamInfo.js" />
+      </iPackager>
+
+      <ftp enable="true">
+        <host>172.23.232.240</host>
+        <user>sdt</user>
+        <pwd>gadget</pwd>
+        <outputfile id="1" checkMd5="false" folder="Andrey/WorldCup2018/dataDir" filename="wc_calendar.js" />
+        <outputfile id="2" checkMd5="false" folder="Andrey/WorldCup2018/dataDir" filename="wc_stats.js" />
+        <outputfile id="3" checkMd5="false" folder="Andrey/WorldCup2018/dataDir" filename="wc_teamInfo.js" />
+      </ftp>
+
+    </Uploader>
+
+  </Uploaders>
+  <Plugins>
+
+    <Plugin id="120" name="Soccer Tournament" enable="true" allowEnable="true" description="Polls stats from external provider and converts them into iTV format." class="SoccerTournamentPluginLib.SoccerTournamentPlugin" libPath="SoccerTournamentPluginLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=52d4ffd5c58f228b" installPath=".\Plugins\SoccerTournamentPlugin" adminWebPath="" updateReportPage="">
+      <DownloaderEvents id="6000" />
+    </Plugin>
+
+  </Plugins>
+</EngineConfig>

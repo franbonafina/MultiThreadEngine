@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Groups>
+  <group group_letter="A">
+    <team games_played="3" goals_difference="5" losses="" points="7" team_id="7" team_name="Brazil" ties="1" wins="2" lost="0" />
+    <team games_played="3" goals_difference="-8" losses="" points="0" team_id="9" team_name="Cameroon" ties="0" wins="0" lost="3" />
+    <team games_played="3" goals_difference="0" losses="" points="3" team_id="14" team_name="Croatia" ties="0" wins="1" lost="2" />
+    <team games_played="3" goals_difference="3" losses="" points="7" team_id="27" team_name="Mexico" ties="1" wins="2" lost="0" />
+  </group>
+  <group group_letter="B">
+    <team games_played="3" goals_difference="-6" losses="" points="0" team_id="4" team_name="Australia" ties="0" wins="0" lost="3" />
+    <team games_played="3" goals_difference="2" losses="" points="6" team_id="10" team_name="Chile" ties="0" wins="2" lost="1" />
+    <team games_played="3" goals_difference="7" losses="" points="9" team_id="21" team_name="Netherlands" ties="0" wins="3" lost="0" />
+    <team games_played="3" goals_difference="-3" losses="" points="3" team_id="17" team_name="Spain" ties="0" wins="1" lost="2" />
+  </group>
+  <group group_letter="C">
+    <team games_played="3" goals_difference="7" losses="" points="9" team_id="11" team_name="Colombia" ties="0" wins="3" lost="0" />
+    <team games_played="3" goals_difference="-1" losses="" points="3" team_id="8" team_name="Côte d'Ivoire" ties="0" wins="1" lost="2" />
+    <team games_played="3" goals_difference="-2" losses="" points="4" team_id="20" team_name="Greece" ties="1" wins="1" lost="1" />
+    <team games_played="3" goals_difference="-4" losses="" points="1" team_id="26" team_name="Japan" ties="1" wins="0" lost="2" />
+  </group>
+  <group group_letter="D">
+    <team games_played="3" goals_difference="3" losses="" points="7" team_id="13" team_name="Costa Rica" ties="1" wins="2" lost="0" />
+    <team games_played="3" goals_difference="-2" losses="" points="1" team_id="23" team_name="England" ties="1" wins="0" lost="2" />
+    <team games_played="3" goals_difference="-1" losses="" points="3" team_id="25" team_name="Italy" ties="0" wins="1" lost="2" />
+    <team games_played="3" goals_difference="0" losses="" points="6" team_id="32" team_name="Uruguay" ties="0" wins="2" lost="1" />
+  </group>
+  <group group_letter="E">
+    <team games_played="3" goals_difference="0" losses="" points="4" team_id="15" team_name="Ecuador" ties="1" wins="1" lost="1" />
+    <team games_played="3" goals_difference="6" losses="" points="7" team_id="18" team_name="France" ties="1" wins="2" lost="0" />
+    <team games_played="3" goals_difference="-7" losses="" points="0" team_id="22" team_name="Honduras" ties="0" wins="0" lost="3" />
+    <team games_played="3" goals_difference="1" losses="" points="6" team_id="31" team_name="Switzerland" ties="0" wins="2" lost="1" />
+  </group>
+  <group group_letter="F">
+    <team games_played="3" goals_difference="3" losses="" points="9" team_id="3" team_name="Argentina" ties="0" wins="3" lost="0" />
+    <team games_played="3" goals_difference="0" losses="" points="3" team_id="6" team_name="Bosnia and Herzegovina" ties="0" wins="1" lost="2" />
+    <team games_played="3" goals_difference="-3" losses="" points="1" team_id="24" team_name="IR Iran" ties="1" wins="0" lost="2" />
+    <team games_played="3" goals_difference="0" losses="" points="4" team_id="28" team_name="Nigeria" ties="1" wins="1" lost="1" />
+  </group>
+  <group group_letter="G">
+    <team games_played="3" goals_difference="5" losses="" points="7" team_id="1" team_name="Germany" ties="1" wins="2" lost="0" />
+    <team games_played="3" goals_difference="-2" losses="" points="1" team_id="19" team_name="Ghana" ties="1" wins="0" lost="2" />
+    <team games_played="3" goals_difference="-3" losses="" points="4" team_id="29" team_name="Portugal" ties="1" wins="1" lost="1" />
+    <team games_played="3" goals_difference="0" losses="" points="4" team_id="16" team_name="USA" ties="1" wins="1" lost="1" />
+  </group>
+  <group group_letter="H">
+    <team games_played="3" goals_difference="1" losses="" points="4" team_id="2" team_name="Algeria" ties="1" wins="1" lost="1" />
+    <team games_played="3" goals_difference="3" losses="" points="9" team_id="5" team_name="Belgium" ties="0" wins="3" lost="0" />
+    <team games_played="3" goals_difference="-3" losses="" points="1" team_id="12" team_name="Korea Republic" ties="1" wins="0" lost="2" />
+    <team games_played="3" goals_difference="-1" losses="" points="2" team_id="30" team_name="Russia" ties="2" wins="0" lost="1" />
+  </group>
+</Groups>

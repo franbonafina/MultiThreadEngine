@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Calendar>
+  <schedule_event>
+    <match match_number="1" teamAId="43924" teamALong="Brasil" teamAShort="BRA" teamBId="43938" teamBLong="Croacia" teamBShort="CRO" />
+    <match match_number="2" teamAId="43911" teamALong="México" teamAShort="MEX" teamBId="43849" teamBLong="Camerun" teamBShort="CMR" />
+    <match match_number="3" teamAId="43969" teamALong="España" teamAShort="ESP" teamBId="43960" teamBLong="Holanda" teamBShort="NED" />
+    <match match_number="4" teamAId="43925" teamALong="Chile" teamAShort="CHI" teamBId="43976" teamBLong="Australia" teamBShort="AUS" />
+    <match match_number="5" teamAId="43926" teamALong="Colombia" teamAShort="COL" teamBId="43949" teamBLong="Grecia" teamBShort="GRE" />
+    <match match_number="6" teamAId="43854" teamALong="C. de Marfil" teamAShort="CIV" teamBId="43819" teamBLong="Japón" teamBShort="JPN" />
+    <match match_number="7" teamAId="43930" teamALong="Uruguay" teamAShort="URU" teamBId="43901" teamBLong="Costa Rica" teamBShort="CRC" />
+    <match match_number="8" teamAId="43942" teamALong="Inglaterra" teamAShort="ENG" teamBId="43954" teamBLong="Italia" teamBShort="ITA" />
+    <match match_number="9" teamAId="43971" teamALong="Suiza" teamAShort="SUI" teamBId="43927" teamBLong="Ecuador" teamBShort="ECU" />
+    <match match_number="10" teamAId="43946" teamALong="Francia" teamAShort="FRA" teamBId="43909" teamBLong="Honduras" teamBShort="HON" />
+    <match match_number="11" teamAId="43922" teamALong="Argentina" teamAShort="ARG" teamBId="44037" teamBLong="Bosnia" teamBShort="BIH" />
+    <match match_number="12" teamAId="43817" teamALong="Irán" teamAShort="IRN" teamBId="43876" teamBLong="Nigeria" teamBShort="NGA" />
+    <match match_number="13" teamAId="43948" teamALong="Alemania" teamAShort="GER" teamBId="43963" teamBLong="Portugal" teamBShort="POR" />
+    <match match_number="14" teamAId="43860" teamALong="Ghana" teamAShort="GHA" teamBId="43921" teamBLong="EEUU" teamBShort="USA" />
+    <match match_number="15" teamAId="43935" teamALong="Bélgica" teamAShort="BEL" teamBId="43843" teamBLong="Argelia" teamBShort="ALG" />
+    <match match_number="16" teamAId="43965" teamALong="Rusia" teamAShort="RUS" teamBId="43822" teamBLong="Core del S." teamBShort="KOR" />
+    <match match_number="17" teamAId="43924" teamALong="Brasil" teamAShort="BRA" teamBId="43911" teamBLong="México" teamBShort="MEX" />
+    <match match_number="18" teamAId="43849" teamALong="Camerun" teamAShort="CMR" teamBId="43938" teamBLong="Croacia" teamBShort="CRO" />
+    <match match_number="19" teamAId="43969" teamALong="España" teamAShort="ESP" teamBId="43925" teamBLong="Chile" teamBShort="CHI" />
+    <match match_number="20" teamAId="43976" teamALong="Australia" teamAShort="AUS" teamBId="43960" teamBLong="Holanda" teamBShort="NED" />
+    <match match_number="21" teamAId="43926" teamALong="Colombia" teamAShort="COL" teamBId="43854" teamBLong="C. de Marfil" teamBShort="CIV" />
+    <match match_number="22" teamAId="43819" teamALong="Japón" teamAShort="JPN" teamBId="43949" teamBLong="Grecia" teamBShort="GRE" />
+    <match match_number="23" teamAId="43930" teamALong="Uruguay" teamAShort="URU" teamBId="43942" teamBLong="Inglaterra" teamBShort="ENG" />
+    <match match_number="24" teamAId="43954" teamALong="Italia" teamAShort="ITA" teamBId="43901" teamBLong="Costa Rica" teamBShort="CRC" />
+    <match match_number="25" teamAId="43971" teamALong="Suiza" teamAShort="SUI" teamBId="43946" teamBLong="Francia" teamBShort="FRA" />
+    <match match_number="26" teamAId="43909" teamALong="Honduras" teamAShort="HON" teamBId="43927" teamBLong="Ecuador" teamBShort="ECU" />
+    <match match_number="27" teamAId="43922" teamALong="Argentina" teamAShort="ARG" teamBId="43817" teamBLong="Irán" teamBShort="IRN" />
+    <match match_number="28" teamAId="43876" teamALong="Nigeria" teamAShort="NGA" teamBId="44037" teamBLong="Bosnia" teamBShort="BIH" />
+    <match match_number="29" teamAId="43948" teamALong="Alemania" teamAShort="GER" teamBId="43860" teamBLong="Ghana" teamBShort="GHA" />
+    <match match_number="30" teamAId="43921" teamALong="EEUU" teamAShort="USA" teamBId="43963" teamBLong="Portugal" teamBShort="POR" />
+    <match match_number="31" teamAId="43935" teamALong="Bélgica" teamAShort="BEL" teamBId="43965" teamBLong="Rusia" teamBShort="RUS" />
+    <match match_number="32" teamAId="43822" teamALong="Core del S." teamAShort="KOR" teamBId="43843" teamBLong="Argelia" teamBShort="ALG" />
+    <match match_number="33" teamAId="43849" teamALong="Camerun" teamAShort="CMR" teamBId="43924" teamBLong="Brasil" teamBShort="BRA" />
+    <match match_number="34" teamAId="43938" teamALong="Croacia" teamAShort="CRO" teamBId="43911" teamBLong="México" teamBShort="MEX" />
+    <match match_number="35" teamAId="43976" teamALong="Australia" teamAShort="AUS" teamBId="43969" teamBLong="España" teamBShort="ESP" />
+    <match match_number="36" teamAId="43960" teamALong="Holanda" teamAShort="NED" teamBId="43925" teamBLong="Chile" teamBShort="CHI" />
+    <match match_number="37" teamAId="43819" teamALong="Japón" teamAShort="JPN" teamBId="43926" teamBLong="Colombia" teamBShort="COL" />
+    <match match_number="38" teamAId="43949" teamALong="Grecia" teamAShort="GRE" teamBId="43854" teamBLong="C. de Marfil" teamBShort="CIV" />
+    <match match_number="39" teamAId="43954" teamALong="Italia" teamAShort="ITA" teamBId="43930" teamBLong="Uruguay" teamBShort="URU" />
+    <match match_number="40" teamAId="43901" teamALong="Costa Rica" teamAShort="CRC" teamBId="43942" teamBLong="Inglaterra" teamBShort="ENG" />
+    <match match_number="41" teamAId="43909" teamALong="Honduras" teamAShort="HON" teamBId="43971" teamBLong="Suiza" teamBShort="SUI" />
+    <match match_number="42" teamAId="43927" teamALong="Ecuador" teamAShort="ECU" teamBId="43946" teamBLong="Francia" teamBShort="FRA" />
+    <match match_number="43" teamAId="43876" teamALong="Nigeria" teamAShort="NGA" teamBId="43922" teamBLong="Argentina" teamBShort="ARG" />
+    <match match_number="44" teamAId="44037" teamALong="Bosnia" teamAShort="BIH" teamBId="43817" teamBLong="Irán" teamBShort="IRN" />
+    <match match_number="45" teamAId="43921" teamALong="EEUU" teamAShort="USA" teamBId="43948" teamBLong="Alemania" teamBShort="GER" />
+    <match match_number="46" teamAId="43963" teamALong="Portugal" teamAShort="POR" teamBId="43860" teamBLong="Ghana" teamBShort="GHA" />
+    <match match_number="47" teamAId="43822" teamALong="Core del S." teamAShort="KOR" teamBId="43935" teamBLong="Bélgica" teamBShort="BEL" />
+    <match match_number="48" teamAId="43843" teamALong="Argelia" teamAShort="ALG" teamBId="43965" teamBLong="Rusia" teamBShort="RUS" />
+    <match match_number="49" teamAId="43924" teamALong="Brasil" teamAShort="BRA" teamBId="43925" teamBLong="Chile" teamBShort="CHI" />
+    <match match_number="50" teamAId="43926" teamALong="Colombia" teamAShort="COL" teamBId="43930" teamBLong="Uruguay" teamBShort="URU" />
+    <match match_number="51" teamAId="43960" teamALong="Holanda" teamAShort="NED" teamBId="43911" teamBLong="México" teamBShort="MEX" />
+    <match match_number="52" teamAId="43901" teamALong="Costa Rica" teamAShort="CRC" teamBId="43949" teamBLong="Grecia" teamBShort="GRE" />
+    <match match_number="53" teamAId="43946" teamALong="Francia" teamAShort="FRA" teamBId="43876" teamBLong="Nigeria" teamBShort="NGA" />
+    <match match_number="54" teamAId="43948" teamALong="Alemania" teamAShort="GER" teamBId="43843" teamBLong="Argelia" teamBShort="ALG" />
+    <match match_number="55" teamAId="43922" teamALong="Argentina" teamAShort="ARG" teamBId="43971" teamBLong="Suiza" teamBShort="SUI" />
+    <match match_number="56" teamAId="43935" teamALong="Bélgica" teamAShort="BEL" teamBId="43921" teamBLong="EEUU" teamBShort="USA" />
+    <match match_number="57" teamAId="43924" teamALong="Brasil" teamAShort="BRA" teamBId="43926" teamBLong="Colombia" teamBShort="COL" />
+    <match match_number="58" teamAId="43946" teamALong="Francia" teamAShort="FRA" teamBId="43948" teamBLong="Alemania" teamBShort="GER" />
+    <match match_number="59" teamAId="43960" teamALong="Holanda" teamAShort="NED" teamBId="43901" teamBLong="Costa Rica" teamBShort="CRC" />
+    <match match_number="60" teamAId="43922" teamALong="Argentina" teamAShort="ARG" teamBId="43935" teamBLong="Bélgica" teamBShort="BEL" />
+    <match match_number="61" teamAId="43924" teamALong="Brasil" teamAShort="BRA" teamBId="43948" teamBLong="Alemania" teamBShort="GER" />
+    <match match_number="62" teamAId="43960" teamALong="Holanda" teamAShort="NED" teamBId="43922" teamBLong="Argentina" teamBShort="ARG" />
+    <match match_number="63" teamAId="43924" teamALong="Brasil" teamAShort="BRA" teamBId="43960" teamBLong="Holanda" teamBShort="NED" />
+    <match match_number="64" teamAId="43948" teamALong="Alemania" teamAShort="GER" teamBId="43922" teamBLong="Argentina" teamBShort="ARG" />
+  </schedule_event>
+  <group_schedule>
+    <group letter="A">
+      <game group_game="1" match_number="1" />
+      <game group_game="2" match_number="2" />
+      <game group_game="3" match_number="17" />
+      <game group_game="4" match_number="18" />
+      <game group_game="5" match_number="33" />
+      <game group_game="6" match_number="34" />
+    </group>
+    <group letter="B">
+      <game group_game="1" match_number="3" />
+      <game group_game="2" match_number="4" />
+      <game group_game="3" match_number="20" />
+      <game group_game="4" match_number="19" />
+      <game group_game="5" match_number="35" />
+      <game group_game="6" match_number="36" />
+    </group>
+    <group letter="C">
+      <game group_game="1" match_number="5" />
+      <game group_game="2" match_number="6" />
+      <game group_game="3" match_number="21" />
+      <game group_game="4" match_number="22" />
+      <game group_game="5" match_number="37" />
+      <game group_game="6" match_number="38" />
+    </group>
+    <group letter="D">
+      <game group_game="1" match_number="7" />
+      <game group_game="2" match_number="8" />
+      <game group_game="3" match_number="23" />
+      <game group_game="4" match_number="24" />
+      <game group_game="5" match_number="39" />
+      <game group_game="6" match_number="40" />
+    </group>
+    <group letter="E">
+      <game group_game="1" match_number="9" />
+      <game group_game="2" match_number="10" />
+      <game group_game="3" match_number="25" />
+      <game group_game="4" match_number="26" />
+      <game group_game="5" match_number="41" />
+      <game group_game="6" match_number="42" />
+    </group>
+    <group letter="F">
+      <game group_game="1" match_number="11" />
+      <game group_game="2" match_number="12" />
+      <game group_game="3" match_number="27" />
+      <game group_game="4" match_number="28" />
+      <game group_game="5" match_number="43" />
+      <game group_game="6" match_number="44" />
+    </group>
+    <group letter="G">
+      <game group_game="1" match_number="13" />
+      <game group_game="2" match_number="14" />
+      <game group_game="3" match_number="29" />
+      <game group_game="4" match_number="30" />
+      <game group_game="5" match_number="45" />
+      <game group_game="6" match_number="46" />
+    </group>
+    <group letter="H">
+      <game group_game="1" match_number="15" />
+      <game group_game="2" match_number="16" />
+      <game group_game="3" match_number="31" />
+      <game group_game="4" match_number="32" />
+      <game group_game="5" match_number="47" />
+      <game group_game="6" match_number="48" />
+    </group>
+  </group_schedule>
+</Calendar>

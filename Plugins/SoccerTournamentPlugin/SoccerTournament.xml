@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SoccerTournamentSettings testDate="2014-06-14 19:00:00.0" name="2014 FIFA World Cup Brazil ™">
+  <Datafeed>
+
+    <url>http://fdf.deltatre.it/Fifa.Api/v1/football</url>
+
+    <!--
+    2018 FIFA World Cup Russia ™
+    2014 FIFA World Cup Brazil ™
+
+    DOC: http://fdfapis.dev.fifa.digitalmedia.deltatre.net/Fifa.Api/v1/football
+    DEV: http://fdfapis.dev.fifa.digitalmedia.deltatre.net/DHS.Fifa.Api/v1/football
+    PROD: http://fdf.deltatre.it/Fifa.Api/v1/football
+        
+    <url>http://fdfapis.dev.fifa.digitalmedia.deltatre.net/Fifa.Api/v1/football</url>
+    -->
+    <AccessToken>
+      <name>Authorization</name>
+      <value>Bearer gAAAAGyCcvvqqVr58d4abG7oFDQQs6EJhKjUn22iNk6Wo8xlRqDYzPvnYEBjlWtw6o1DEhdLNQWeH1ST7Gb2L_SNb3Gt-fujmcKabD-9rQ4Z36DJxF3c5vX8tco0SWbWnUUPZbmITfp7lRTD1AKF_39dgwgE5aHze4CjN8YEPzIyt1rz9AAAAIAAAACAoe0kZXKGqWWfTA5fJge9cyo3Ymq63uXfKpjEgBt3iNxGUePTq0LDMaUm2DUenn4uUV5Tz2qbK5mp-LxrmbHOzPOhaj2angmbDh621lOwlBY3hrGcG7_odc1CUuAKMP0GHZqHFbhXpt6ZBpV4YxV7o1eeezZADAZMLoiipp-bU1xeYxpbP9MbsDdW6-QSDQ1I2LA-D9skPHWvklmA-gd9BwPPorRyG2mn9kr-PfT0EbrPbP6BYhbJVHjtTwBYkscc8zLh2mY2WN9K8yGCeluD1mneXqqgkikelTFlL49WVt3q7x3IbyBXRy7x_daOfdc</value>
+    </AccessToken>
+  </Datafeed>
+</SoccerTournamentSettings>
+

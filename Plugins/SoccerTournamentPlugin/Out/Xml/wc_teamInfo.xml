@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Team_Info>
+  <team_standings>
+    <team corners="37" fouls_committed="91" fouls_received="100" free_kicks_shots="1" games_played="7" goals_against="4" goals_difference="" goals_for="18" lost="" offsides="17" penalty_goals="1" penalty_kicks="62" points="" red_card="0" second_yellow_card_and_red_card="0" shots="98" shots_on_goal="71" team_id="1" ties="" wins="" yellow_card="6" />
+    <team corners="14" fouls_committed="69" fouls_received="55" free_kicks_shots="2" games_played="4" goals_against="7" goals_difference="" goals_for="7" lost="" offsides="7" penalty_goals="1" penalty_kicks="26" points="" red_card="0" second_yellow_card_and_red_card="0" shots="37" shots_on_goal="22" team_id="2" ties="" wins="" yellow_card="6" />
+    <team corners="47" fouls_committed="80" fouls_received="116" free_kicks_shots="8" games_played="7" goals_against="4" goals_difference="" goals_for="8" lost="" offsides="8" penalty_goals="0" penalty_kicks="57" points="" red_card="0" second_yellow_card_and_red_card="0" shots="105" shots_on_goal="63" team_id="3" ties="" wins="" yellow_card="8" />
+    <team corners="6" fouls_committed="50" fouls_received="39" free_kicks_shots="0" games_played="3" goals_against="9" goals_difference="" goals_for="3" lost="" offsides="3" penalty_goals="1" penalty_kicks="16" points="" red_card="0" second_yellow_card_and_red_card="0" shots="27" shots_on_goal="14" team_id="4" ties="" wins="" yellow_card="6" />
+    <team corners="39" fouls_committed="86" fouls_received="60" free_kicks_shots="5" games_played="5" goals_against="3" goals_difference="" goals_for="6" lost="" offsides="22" penalty_goals="0" penalty_kicks="47" points="" red_card="1" second_yellow_card_and_red_card="0" shots="91" shots_on_goal="58" team_id="5" ties="" wins="" yellow_card="7" />
+    <team corners="16" fouls_committed="41" fouls_received="34" free_kicks_shots="2" games_played="3" goals_against="4" goals_difference="" goals_for="4" lost="" offsides="6" penalty_goals="0" penalty_kicks="21" points="" red_card="0" second_yellow_card_and_red_card="0" shots="47" shots_on_goal="30" team_id="6" ties="" wins="" yellow_card="3" />
+    <team corners="42" fouls_committed="123" fouls_received="129" free_kicks_shots="9" games_played="7" goals_against="14" goals_difference="" goals_for="11" lost="" offsides="15" penalty_goals="1" penalty_kicks="54" points="" red_card="0" second_yellow_card_and_red_card="0" shots="111" shots_on_goal="72" team_id="7" ties="" wins="" yellow_card="14" />
+    <team corners="20" fouls_committed="49" fouls_received="36" free_kicks_shots="4" games_played="3" goals_against="5" goals_difference="" goals_for="4" lost="" offsides="6" penalty_goals="0" penalty_kicks="22" points="" red_card="0" second_yellow_card_and_red_card="0" shots="47" shots_on_goal="30" team_id="8" ties="" wins="" yellow_card="7" />
+    <team corners="15" fouls_committed="37" fouls_received="37" free_kicks_shots="1" games_played="3" goals_against="9" goals_difference="" goals_for="1" lost="" offsides="4" penalty_goals="0" penalty_kicks="17" points="" red_card="1" second_yellow_card_and_red_card="0" shots="40" shots_on_goal="17" team_id="9" ties="" wins="" yellow_card="4" />
+    <team corners="16" fouls_committed="61" fouls_received="80" free_kicks_shots="2" games_played="4" goals_against="4" goals_difference="" goals_for="6" lost="" offsides="8" penalty_goals="0" penalty_kicks="23" points="" red_card="0" second_yellow_card_and_red_card="0" shots="38" shots_on_goal="19" team_id="10" ties="" wins="" yellow_card="7" />
+    <team corners="20" fouls_committed="91" fouls_received="84" free_kicks_shots="4" games_played="5" goals_against="4" goals_difference="" goals_for="12" lost="" offsides="10" penalty_goals="2" penalty_kicks="28" points="" red_card="0" second_yellow_card_and_red_card="0" shots="57" shots_on_goal="38" team_id="11" ties="" wins="" yellow_card="5" />
+    <team corners="18" fouls_committed="36" fouls_received="42" free_kicks_shots="1" games_played="3" goals_against="6" goals_difference="" goals_for="3" lost="" offsides="2" penalty_goals="0" penalty_kicks="20" points="" red_card="0" second_yellow_card_and_red_card="0" shots="37" shots_on_goal="24" team_id="12" ties="" wins="" yellow_card="6" />
+    <team corners="18" fouls_committed="94" fouls_received="75" free_kicks_shots="2" games_played="5" goals_against="2" goals_difference="" goals_for="5" lost="" offsides="11" penalty_goals="0" penalty_kicks="22" points="" red_card="1" second_yellow_card_and_red_card="1" shots="38" shots_on_goal="18" team_id="13" ties="" wins="" yellow_card="10" />
+    <team corners="17" fouls_committed="48" fouls_received="27" free_kicks_shots="2" games_played="3" goals_against="6" goals_difference="" goals_for="6" lost="" offsides="5" penalty_goals="0" penalty_kicks="28" points="" red_card="1" second_yellow_card_and_red_card="0" shots="41" shots_on_goal="23" team_id="14" ties="" wins="" yellow_card="4" />
+    <team corners="18" fouls_committed="49" fouls_received="28" free_kicks_shots="2" games_played="3" goals_against="3" goals_difference="" goals_for="3" lost="" offsides="6" penalty_goals="0" penalty_kicks="14" points="" red_card="1" second_yellow_card_and_red_card="0" shots="29" shots_on_goal="18" team_id="15" ties="" wins="" yellow_card="5" />
+    <team corners="15" fouls_committed="49" fouls_received="56" free_kicks_shots="1" games_played="4" goals_against="6" goals_difference="" goals_for="5" lost="" offsides="4" penalty_goals="0" penalty_kicks="19" points="" red_card="0" second_yellow_card_and_red_card="0" shots="41" shots_on_goal="27" team_id="16" ties="" wins="" yellow_card="4" />
+    <team corners="17" fouls_committed="28" fouls_received="45" free_kicks_shots="2" games_played="3" goals_against="7" goals_difference="" goals_for="4" lost="" offsides="12" penalty_goals="1" penalty_kicks="22" points="" red_card="0" second_yellow_card_and_red_card="0" shots="35" shots_on_goal="23" team_id="17" ties="" wins="" yellow_card="3" />
+    <team corners="35" fouls_committed="62" fouls_received="67" free_kicks_shots="1" games_played="5" goals_against="3" goals_difference="" goals_for="10" lost="" offsides="10" penalty_goals="1" penalty_kicks="59" points="" red_card="0" second_yellow_card_and_red_card="0" shots="90" shots_on_goal="57" team_id="18" ties="" wins="" yellow_card="5" />
+    <team corners="14" fouls_committed="43" fouls_received="43" free_kicks_shots="2" games_played="3" goals_against="6" goals_difference="" goals_for="4" lost="" offsides="14" penalty_goals="0" penalty_kicks="27" points="" red_card="0" second_yellow_card_and_red_card="0" shots="59" shots_on_goal="24" team_id="19" ties="" wins="" yellow_card="6" />
+    <team corners="26" fouls_committed="61" fouls_received="82" free_kicks_shots="5" games_played="4" goals_against="5" goals_difference="" goals_for="3" lost="" offsides="17" penalty_goals="1" penalty_kicks="29" points="" red_card="1" second_yellow_card_and_red_card="1" shots="58" shots_on_goal="30" team_id="20" ties="" wins="" yellow_card="6" />
+    <team corners="31" fouls_committed="126" fouls_received="82" free_kicks_shots="7" games_played="7" goals_against="4" goals_difference="" goals_for="15" lost="" offsides="27" penalty_goals="2" penalty_kicks="50" points="" red_card="0" second_yellow_card_and_red_card="0" shots="90" shots_on_goal="64" team_id="21" ties="" wins="" yellow_card="11" />
+    <team corners="12" fouls_committed="46" fouls_received="46" free_kicks_shots="2" games_played="3" goals_against="8" goals_difference="" goals_for="1" lost="" offsides="3" penalty_goals="0" penalty_kicks="10" points="" red_card="1" second_yellow_card_and_red_card="1" shots="33" shots_on_goal="17" team_id="22" ties="" wins="" yellow_card="5" />
+    <team corners="22" fouls_committed="37" fouls_received="44" free_kicks_shots="2" games_played="3" goals_against="4" goals_difference="" goals_for="2" lost="" offsides="2" penalty_goals="0" penalty_kicks="14" points="" red_card="0" second_yellow_card_and_red_card="0" shots="39" shots_on_goal="19" team_id="23" ties="" wins="" yellow_card="4" />
+    <team corners="13" fouls_committed="49" fouls_received="40" free_kicks_shots="1" games_played="3" goals_against="4" goals_difference="" goals_for="1" lost="" offsides="10" penalty_goals="0" penalty_kicks="10" points="" red_card="0" second_yellow_card_and_red_card="0" shots="22" shots_on_goal="12" team_id="24" ties="" wins="" yellow_card="4" />
+    <team corners="9" fouls_committed="41" fouls_received="49" free_kicks_shots="3" games_played="3" goals_against="3" goals_difference="" goals_for="2" lost="" offsides="21" penalty_goals="0" penalty_kicks="9" points="" red_card="1" second_yellow_card_and_red_card="0" shots="31" shots_on_goal="16" team_id="25" ties="" wins="" yellow_card="3" />
+    <team corners="19" fouls_committed="46" fouls_received="47" free_kicks_shots="4" games_played="3" goals_against="6" goals_difference="" goals_for="2" lost="" offsides="2" penalty_goals="0" penalty_kicks="15" points="" red_card="0" second_yellow_card_and_red_card="0" shots="46" shots_on_goal="28" team_id="26" ties="" wins="" yellow_card="4" />
+    <team corners="16" fouls_committed="53" fouls_received="50" free_kicks_shots="0" games_played="4" goals_against="3" goals_difference="" goals_for="5" lost="" offsides="7" penalty_goals="0" penalty_kicks="18" points="" red_card="0" second_yellow_card_and_red_card="0" shots="46" shots_on_goal="22" team_id="27" ties="" wins="" yellow_card="8" />
+    <team corners="24" fouls_committed="57" fouls_received="43" free_kicks_shots="3" games_played="4" goals_against="5" goals_difference="" goals_for="3" lost="" offsides="6" penalty_goals="0" penalty_kicks="15" points="" red_card="0" second_yellow_card_and_red_card="0" shots="50" shots_on_goal="32" team_id="28" ties="" wins="" yellow_card="3" />
+    <team corners="17" fouls_committed="46" fouls_received="35" free_kicks_shots="2" games_played="3" goals_against="7" goals_difference="" goals_for="4" lost="" offsides="5" penalty_goals="0" penalty_kicks="23" points="" red_card="1" second_yellow_card_and_red_card="0" shots="53" shots_on_goal="28" team_id="29" ties="" wins="" yellow_card="2" />
+    <team corners="16" fouls_committed="38" fouls_received="34" free_kicks_shots="0" games_played="3" goals_against="3" goals_difference="" goals_for="2" lost="" offsides="3" penalty_goals="0" penalty_kicks="18" points="" red_card="0" second_yellow_card_and_red_card="0" shots="39" shots_on_goal="23" team_id="30" ties="" wins="" yellow_card="4" />
+    <team corners="19" fouls_committed="67" fouls_received="65" free_kicks_shots="3" games_played="4" goals_against="7" goals_difference="" goals_for="7" lost="" offsides="5" penalty_goals="0" penalty_kicks="26" points="" red_card="0" second_yellow_card_and_red_card="0" shots="65" shots_on_goal="40" team_id="31" ties="" wins="" yellow_card="3" />
+    <team corners="20" fouls_committed="74" fouls_received="63" free_kicks_shots="3" games_played="4" goals_against="6" goals_difference="" goals_for="4" lost="" offsides="11" penalty_goals="1" penalty_kicks="22" points="" red_card="1" second_yellow_card_and_red_card="0" shots="49" shots_on_goal="29" team_id="32" ties="" wins="" yellow_card="8" />
+  </team_standings>
+  <team_cards>
+    <team team_id="1">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="2">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="3">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="4">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="5">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="6">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="7">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="8">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="9">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="10">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="11">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="12">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="13">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="14">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="15">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="16">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="17">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="18">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="19">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="20">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="21">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="22">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="23">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="24">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="25">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="26">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="27">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="28">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="29">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="30">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="31">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+    <team team_id="32">
+      <player card_number="0" player_name="" red_cards="" yellow_cards="" />
+    </team>
+  </team_cards>
+</Team_Info>

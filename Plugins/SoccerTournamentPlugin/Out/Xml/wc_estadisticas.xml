@@ -1,0 +1,1205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Statistics>
+  <gen_indiv_statistics>
+    <stats type="goal_leaders">
+      <athlete athlete_id="269058" games_played="5" goals="6" penalties="" player_name="RODRIGUEZ" rank="1" team_country="Colombia" team_id="11" />
+      <athlete athlete_id="321722" games_played="7" goals="5" penalties="" player_name="MUELLER" rank="2" team_country="Alemania" team_id="1" />
+      <athlete athlete_id="217315" games_played="6" goals="4" penalties="" player_name="Robin VAN PERSIE" rank="3" team_country="Holanda" team_id="21" />
+      <athlete athlete_id="229397" games_played="7" goals="4" penalties="" player_name="MESSI" rank="3" team_country="Argentina" team_id="3" />
+      <athlete athlete_id="314197" games_played="5" goals="4" penalties="" player_name="NEYMAR" rank="3" team_country="Brasil" team_id="7" />
+    </stats>
+    <stats type="cards">
+      <athlete athlete_id="202544" games_played="3" player_name="Antonio VALENCIA" rank="1" team_country="Ecuador" team_id="15" red_cards="1" yellow_cards="1" />
+      <athlete athlete_id="369058" games_played="3" player_name="REBIC" rank="1" team_country="Croacia" team_id="14" red_cards="1" yellow_cards="0" />
+      <athlete athlete_id="214887" games_played="3" player_name="Konstantinos KATSOURANIS" rank="1" team_country="Grecia" team_id="20" red_cards="1" yellow_cards="0" />
+      <athlete athlete_id="298664" games_played="3" player_name="Claudio MARCHISIO" rank="1" team_country="Italia" team_id="25" red_cards="1" yellow_cards="0" />
+      <athlete athlete_id="312987" games_played="4" player_name="DUARTE" rank="1" team_country="Costa Rica" team_id="13" red_cards="1" yellow_cards="0" />
+    </stats>
+    <stats type="assists">
+      <athlete athlete_id="275162" games_played="7" player_name="KROOS" rank="1" team_country="Alemania" team_id="1" count="4" />
+      <athlete athlete_id="309714" games_played="5" player_name="CUADRADO" rank="1" team_country="Colombia" team_id="11" count="4" />
+      <athlete athlete_id="321722" games_played="7" player_name="MUELLER" rank="3" team_country="Alemania" team_id="1" count="3" />
+      <athlete athlete_id="183796" games_played="5" player_name="BOLANOS" rank="4" team_country="Costa Rica" team_id="13" count="2" />
+      <athlete athlete_id="184447" games_played="3" player_name="Walter AYOVI" rank="4" team_country="Ecuador" team_id="15" count="2" />
+    </stats>
+    <stats type="distance">
+      <athlete athlete_id="321722" games_played="7" player_name="MUELLER" rank="1" team_country="Alemania" team_id="1" count="83956" />
+      <athlete athlete_id="275162" games_played="7" player_name="KROOS" rank="2" team_country="Alemania" team_id="1" count="82635" />
+      <athlete athlete_id="182372" games_played="7" player_name="MASCHERANO" rank="3" team_country="Argentina" team_id="3" count="81224" />
+      <athlete athlete_id="196748" games_played="7" player_name="Philipp LAHM" rank="4" team_country="Alemania" team_id="1" count="81018" />
+      <athlete athlete_id="311148" games_played="7" player_name="Benedikt HOEWEDES" rank="5" team_country="Alemania" team_id="1" count="80396" />
+    </stats>
+    <stats type="fouls_committed">
+      <athlete athlete_id="290902" games_played="5" player_name="FELLAINI" rank="1" team_country="Bélgica" team_id="5" count="19" />
+      <athlete athlete_id="217315" games_played="6" player_name="Robin VAN PERSIE" rank="2" team_country="Holanda" team_id="21" count="18" />
+      <athlete athlete_id="362641" games_played="3" player_name="GHOOCHANNEJHAD" rank="3" team_country="Irán" team_id="24" count="17" />
+      <athlete athlete_id="367918" games_played="6" player_name="LUIZ GUSTAVO" rank="4" team_country="Brasil" team_id="7" count="15" />
+      <athlete athlete_id="183796" games_played="5" player_name="BOLANOS" rank="5" team_country="Costa Rica" team_id="13" count="14" />
+    </stats>
+    <stats type="fouls_received">
+      <athlete athlete_id="184616" games_played="7" player_name="Arjen ROBBEN" rank="1" team_country="Holanda" team_id="21" count="28" />
+      <athlete athlete_id="228627" games_played="4" player_name="Alexis SANCHEZ" rank="2" team_country="Chile" team_id="10" count="24" />
+      <athlete athlete_id="297112" games_played="4" player_name="Georgios SAMARAS" rank="3" team_country="Grecia" team_id="20" count="21" />
+      <athlete athlete_id="307529" games_played="5" player_name="CAMPBELL" rank="4" team_country="Costa Rica" team_id="13" count="20" />
+      <athlete athlete_id="309714" games_played="5" player_name="CUADRADO" rank="5" team_country="Colombia" team_id="11" count="19" />
+    </stats>
+  </gen_indiv_statistics>
+  <gen_team_statistics>
+    <stats type="goal_leaders">
+      <team team_id="1" games_played="7" goals="18" penalties="1" team_country="Alemania" player_name="Germany" rank="1" />
+      <team team_id="21" games_played="7" goals="15" penalties="2" team_country="Holanda" player_name="Netherlands" rank="2" />
+      <team team_id="11" games_played="5" goals="12" penalties="2" team_country="Colombia" player_name="Colombia" rank="3" />
+      <team team_id="7" games_played="7" goals="11" penalties="1" team_country="Brasil" player_name="Brazil" rank="4" />
+      <team team_id="18" games_played="5" goals="10" penalties="1" team_country="Francia" player_name="France" rank="5" />
+    </stats>
+    <stats type="cards">
+      <team team_id="13" games_played="5" red_cards="1" yellow_cards="10" team_country="Costa Rica" athlete_id="13" player_name="Costa Rica" rank="1" />
+      <team team_id="32" games_played="4" red_cards="1" yellow_cards="8" team_country="Uruguay" athlete_id="32" player_name="Uruguay" rank="1" />
+      <team team_id="5" games_played="5" red_cards="1" yellow_cards="7" team_country="Bélgica" athlete_id="5" player_name="Belgium" rank="1" />
+      <team team_id="20" games_played="4" red_cards="1" yellow_cards="6" team_country="Grecia" athlete_id="20" player_name="Greece" rank="1" />
+      <team team_id="15" games_played="3" red_cards="1" yellow_cards="5" team_country="Ecuador" athlete_id="15" player_name="Ecuador" rank="1" />
+    </stats>
+    <stats type="assists">
+      <team team_id="1" count="13" team_country="Alemania" athlete_id="1" games_played="7" player_name="Germany" rank="1" />
+      <team team_id="11" count="10" team_country="Colombia" athlete_id="11" games_played="5" player_name="Colombia" rank="2" />
+      <team team_id="21" count="9" team_country="Holanda" athlete_id="21" games_played="7" player_name="Netherlands" rank="3" />
+      <team team_id="2" count="6" team_country="Argelia" athlete_id="2" games_played="4" player_name="Algeria" rank="4" />
+      <team team_id="7" count="6" team_country="Brasil" athlete_id="7" games_played="7" player_name="Brazil" rank="4" />
+    </stats>
+    <stats type="distance">
+      <team team_id="1" count="846284" team_country="Alemania" athlete_id="1" games_played="7" player_name="Germany" rank="1" />
+      <team team_id="21" count="826262" team_country="Holanda" athlete_id="21" games_played="7" player_name="Netherlands" rank="2" />
+      <team team_id="3" count="821915" team_country="Argentina" athlete_id="3" games_played="7" player_name="Argentina" rank="3" />
+      <team team_id="7" count="747596" team_country="Brasil" athlete_id="7" games_played="7" player_name="Brazil" rank="4" />
+      <team team_id="13" count="596615" team_country="Costa Rica" athlete_id="13" games_played="5" player_name="Costa Rica" rank="5" />
+    </stats>
+    <stats type="fouls_committed">
+      <team team_id="21" count="126" team_country="Holanda" athlete_id="21" games_played="7" player_name="Netherlands" rank="1" />
+      <team team_id="7" count="123" team_country="Brasil" athlete_id="7" games_played="7" player_name="Brazil" rank="2" />
+      <team team_id="13" count="94" team_country="Costa Rica" athlete_id="13" games_played="5" player_name="Costa Rica" rank="3" />
+      <team team_id="11" count="91" team_country="Colombia" athlete_id="11" games_played="5" player_name="Colombia" rank="4" />
+      <team team_id="1" count="91" team_country="Alemania" athlete_id="1" games_played="7" player_name="Germany" rank="4" />
+    </stats>
+    <stats type="fouls_received">
+      <team team_id="7" count="129" team_country="Brasil" athlete_id="7" games_played="7" player_name="Brazil" rank="1" />
+      <team team_id="3" count="116" team_country="Argentina" athlete_id="3" games_played="7" player_name="Argentina" rank="2" />
+      <team team_id="1" count="100" team_country="Alemania" athlete_id="1" games_played="7" player_name="Germany" rank="3" />
+      <team team_id="11" count="84" team_country="Colombia" athlete_id="11" games_played="5" player_name="Colombia" rank="4" />
+      <team team_id="20" count="82" team_country="Grecia" athlete_id="20" games_played="4" player_name="Greece" rank="5" />
+    </stats>
+  </gen_team_statistics>
+  <game_statistics>
+    <stats assists="" attendance="" duration="" game="1">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="7" team_name="Brasil" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="14" team_name="Croacia" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="2">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="27" team_name="México" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="9" team_name="Camerun" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="3">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="17" team_name="España" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="21" team_name="Holanda" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="4">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="10" team_name="Chile" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="4" team_name="Australia" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="3" attendance="57174" duration="1:53" game="5">
+      <team ball_possession_percentage="46" penalty_score="0" red_cards="0" shots="12" shots_on_goal="8" team_assists="3" team_corners="4" team_distance="107616" team_fouls_committed="17" team_fouls_received="14" team_id="11" team_name="Colombia" team_offsides="1" team_score="3" yellow_cards="1" />
+      <team ball_possession_percentage="54" penalty_score="0" red_cards="0" shots="12" shots_on_goal="7" team_assists="0" team_corners="4" team_distance="104851" team_fouls_committed="14" team_fouls_received="17" team_id="20" team_name="Grecia" team_offsides="3" team_score="0" yellow_cards="2" />
+    </stats>
+    <stats assists="3" attendance="40267" duration="1:53" game="6">
+      <team ball_possession_percentage="57" penalty_score="0" red_cards="0" shots="7" shots_on_goal="9" team_assists="2" team_corners="8" team_distance="97225" team_fouls_committed="11" team_fouls_received="13" team_id="8" team_name="C. de Marfil" team_offsides="3" team_score="2" yellow_cards="2" />
+      <team ball_possession_percentage="43" penalty_score="0" red_cards="0" shots="7" shots_on_goal="4" team_assists="1" team_corners="5" team_distance="108251" team_fouls_committed="13" team_fouls_received="11" team_id="26" team_name="Japón" team_offsides="1" team_score="1" yellow_cards="2" />
+    </stats>
+    <stats assists="3" attendance="58679" duration="1:54" game="7">
+      <team ball_possession_percentage="54" penalty_score="0" red_cards="1" shots="12" shots_on_goal="5" team_assists="0" team_corners="5" team_distance="104258" team_fouls_committed="20" team_fouls_received="18" team_id="32" team_name="Uruguay" team_offsides="6" team_score="1" yellow_cards="3" />
+      <team ball_possession_percentage="46" penalty_score="0" red_cards="0" shots="12" shots_on_goal="4" team_assists="3" team_corners="6" team_distance="108605" team_fouls_committed="18" team_fouls_received="20" team_id="13" team_name="Costa Rica" team_offsides="2" team_score="3" yellow_cards="0" />
+    </stats>
+    <stats assists="3" attendance="39800" duration="1:56" game="8">
+      <team ball_possession_percentage="48" penalty_score="0" red_cards="0" shots="12" shots_on_goal="8" team_assists="1" team_corners="9" team_distance="107252" team_fouls_committed="8" team_fouls_received="12" team_id="23" team_name="Inglaterra" team_offsides="0" team_score="1" yellow_cards="1" />
+      <team ball_possession_percentage="52" penalty_score="0" red_cards="0" shots="12" shots_on_goal="5" team_assists="2" team_corners="2" team_distance="110458" team_fouls_committed="12" team_fouls_received="8" team_id="25" team_name="Italia" team_offsides="7" team_score="2" yellow_cards="0" />
+    </stats>
+    <stats assists="3" attendance="68351" duration="1:52" game="9">
+      <team ball_possession_percentage="56" penalty_score="0" red_cards="0" shots="10" shots_on_goal="12" team_assists="2" team_corners="8" team_distance="113628" team_fouls_committed="9" team_fouls_received="14" team_id="31" team_name="Suiza" team_offsides="1" team_score="2" yellow_cards="1" />
+      <team ball_possession_percentage="44" penalty_score="0" red_cards="0" shots="10" shots_on_goal="6" team_assists="1" team_corners="5" team_distance="98916" team_fouls_committed="14" team_fouls_received="9" team_id="15" team_name="Ecuador" team_offsides="4" team_score="1" yellow_cards="1" />
+    </stats>
+    <stats assists="0" attendance="43012" duration="1:55" game="10">
+      <team ball_possession_percentage="63" penalty_score="0" red_cards="0" shots="4" shots_on_goal="10" team_assists="0" team_corners="8" team_distance="108179" team_fouls_committed="13" team_fouls_received="12" team_id="18" team_name="Francia" team_offsides="1" team_score="3" yellow_cards="3" />
+      <team ball_possession_percentage="37" penalty_score="0" red_cards="1" shots="4" shots_on_goal="2" team_assists="0" team_corners="0" team_distance="98773" team_fouls_committed="12" team_fouls_received="13" team_id="22" team_name="Honduras" team_offsides="2" team_score="0" yellow_cards="3" />
+    </stats>
+    <stats assists="2" attendance="74738" duration="1:52" game="11">
+      <team ball_possession_percentage="56" penalty_score="0" red_cards="0" shots="16" shots_on_goal="5" team_assists="1" team_corners="2" team_distance="105432" team_fouls_committed="9" team_fouls_received="13" team_id="3" team_name="Argentina" team_offsides="0" team_score="2" yellow_cards="1" />
+      <team ball_possession_percentage="44" penalty_score="0" red_cards="0" shots="16" shots_on_goal="11" team_assists="1" team_corners="6" team_distance="115488" team_fouls_committed="13" team_fouls_received="9" team_id="6" team_name="Bosnia" team_offsides="3" team_score="1" yellow_cards="1" />
+    </stats>
+    <stats assists="0" attendance="39081" duration="1:52" game="12">
+      <team ball_possession_percentage="37" penalty_score="0" red_cards="0" shots="10" shots_on_goal="3" team_assists="0" team_corners="2" team_distance="108289" team_fouls_committed="18" team_fouls_received="14" team_id="24" team_name="Irán" team_offsides="1" team_score="0" yellow_cards="1" />
+      <team ball_possession_percentage="63" penalty_score="0" red_cards="0" shots="10" shots_on_goal="6" team_assists="0" team_corners="7" team_distance="100104" team_fouls_committed="14" team_fouls_received="18" team_id="28" team_name="Nigeria" team_offsides="0" team_score="0" yellow_cards="0" />
+    </stats>
+    <stats assists="2" attendance="51081" duration="1:53" game="13">
+      <team ball_possession_percentage="54" penalty_score="0" red_cards="0" shots="14" shots_on_goal="9" team_assists="2" team_corners="4" team_distance="111651" team_fouls_committed="8" team_fouls_received="11" team_id="1" team_name="Alemania" team_offsides="2" team_score="4" yellow_cards="0" />
+      <team ball_possession_percentage="46" penalty_score="0" red_cards="1" shots="14" shots_on_goal="9" team_assists="0" team_corners="6" team_distance="101868" team_fouls_committed="11" team_fouls_received="8" team_id="29" team_name="Portugal" team_offsides="1" team_score="0" yellow_cards="1" />
+    </stats>
+    <stats assists="2" attendance="39760" duration="1:58" game="14">
+      <team ball_possession_percentage="59" penalty_score="0" red_cards="0" shots="8" shots_on_goal="8" team_assists="1" team_corners="7" team_distance="110574" team_fouls_committed="10" team_fouls_received="12" team_id="19" team_name="Ghana" team_offsides="5" team_score="1" yellow_cards="2" />
+      <team ball_possession_percentage="41" penalty_score="0" red_cards="0" shots="8" shots_on_goal="7" team_assists="1" team_corners="3" team_distance="116978" team_fouls_committed="12" team_fouls_received="10" team_id="16" team_name="EEUU" team_offsides="1" team_score="2" yellow_cards="0" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="15">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="5" team_name="Bélgica" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="2" team_name="Argelia" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="16">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="30" team_name="Rusia" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="12" team_name="Core del S." team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="17">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="7" team_name="Brasil" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="27" team_name="México" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="18">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="9" team_name="Camerun" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="14" team_name="Croacia" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="19">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="17" team_name="España" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="10" team_name="Chile" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="20">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="4" team_name="Australia" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="21" team_name="Holanda" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="21">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="11" team_name="Colombia" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="8" team_name="C. de Marfil" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="22">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="26" team_name="Japón" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="20" team_name="Grecia" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="23">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="32" team_name="Uruguay" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="23" team_name="Inglaterra" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="24">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="25" team_name="Italia" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="13" team_name="Costa Rica" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="25">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="31" team_name="Suiza" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="18" team_name="Francia" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="26">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="22" team_name="Honduras" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="15" team_name="Ecuador" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="27">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="3" team_name="Argentina" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="24" team_name="Irán" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="28">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="28" team_name="Nigeria" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="6" team_name="Bosnia" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="29">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="1" team_name="Alemania" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="19" team_name="Ghana" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="30">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="16" team_name="EEUU" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="29" team_name="Portugal" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="31">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="5" team_name="Bélgica" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="30" team_name="Rusia" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="32">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="12" team_name="Core del S." team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="2" team_name="Argelia" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="33">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="9" team_name="Camerun" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="7" team_name="Brasil" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="34">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="14" team_name="Croacia" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="27" team_name="México" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="35">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="4" team_name="Australia" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="17" team_name="España" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="36">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="21" team_name="Holanda" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="10" team_name="Chile" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="37">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="26" team_name="Japón" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="11" team_name="Colombia" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="38">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="20" team_name="Grecia" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="8" team_name="C. de Marfil" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="39">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="25" team_name="Italia" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="32" team_name="Uruguay" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="40">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="13" team_name="Costa Rica" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="23" team_name="Inglaterra" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="41">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="22" team_name="Honduras" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="31" team_name="Suiza" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="42">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="15" team_name="Ecuador" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="18" team_name="Francia" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="43">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="28" team_name="Nigeria" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="3" team_name="Argentina" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="44">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="6" team_name="Bosnia" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="24" team_name="Irán" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="45">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="16" team_name="EEUU" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="1" team_name="Alemania" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="46">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="29" team_name="Portugal" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="19" team_name="Ghana" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="47">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="12" team_name="Core del S." team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="5" team_name="Bélgica" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="48">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="2" team_name="Argelia" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="30" team_name="Rusia" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="49">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="7" team_name="Brasil" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="10" team_name="Chile" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="50">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="11" team_name="Colombia" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="32" team_name="Uruguay" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="51">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="21" team_name="Holanda" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="27" team_name="México" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="52">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="13" team_name="Costa Rica" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="20" team_name="Grecia" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="53">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="18" team_name="Francia" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="28" team_name="Nigeria" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="54">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="1" team_name="Alemania" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="2" team_name="Argelia" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="55">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="3" team_name="Argentina" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="31" team_name="Suiza" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="56">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="5" team_name="Bélgica" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="16" team_name="EEUU" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="57">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="7" team_name="Brasil" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="11" team_name="Colombia" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="58">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="18" team_name="Francia" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="1" team_name="Alemania" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="59">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="21" team_name="Holanda" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="13" team_name="Costa Rica" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="60">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="3" team_name="Argentina" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="5" team_name="Bélgica" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="61">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="7" team_name="Brasil" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="1" team_name="Alemania" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="62">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="21" team_name="Holanda" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="3" team_name="Argentina" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="63">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="7" team_name="Brasil" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="21" team_name="Holanda" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+    <stats assists="" attendance="" duration="" game="64">
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="1" team_name="Alemania" team_offsides="" team_score="" yellow_cards="" />
+      <team ball_possession_percentage="" penalty_score="" red_cards="" shots="" shots_on_goal="" team_assists="" team_corners="" team_distance="" team_fouls_committed="" team_fouls_received="" team_id="3" team_name="Argentina" team_offsides="" team_score="" yellow_cards="" />
+    </stats>
+  </game_statistics>
+  <game_goal_statistics>
+    <stats game="1">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="2">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="3">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="4">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="5">
+      <goal goal_number="0" goal_time="0:5:0" goal_type="G" player_name="Pablo ARMERO" team_id="11" team_name_short="COL" />
+      <goal goal_number="1" goal_time="0:58:33" goal_type="G" player_name="Teofilo GUTIERREZ" team_id="11" team_name_short="COL" />
+      <goal goal_number="2" goal_time="1:30:20" goal_type="G" player_name="James RODRIGUEZ" team_id="11" team_name_short="COL" />
+    </stats>
+    <stats game="6">
+      <goal goal_number="0" goal_time="0:16:37" goal_type="G" player_name="Keisuke HONDA" team_id="26" team_name_short="JPN" />
+      <goal goal_number="1" goal_time="1:4:56" goal_type="G" player_name="Wilfried BONY" team_id="8" team_name_short="CIV" />
+      <goal goal_number="2" goal_time="1:6:33" goal_type="G" player_name=" GERVINHO" team_id="8" team_name_short="CIV" />
+    </stats>
+    <stats game="7">
+      <goal goal_number="0" goal_time="0:24:6" goal_type="P" player_name="Edinson CAVANI" team_id="32" team_name_short="URU" />
+      <goal goal_number="1" goal_time="0:54:36" goal_type="G" player_name="Joel CAMPBELL" team_id="13" team_name_short="CRC" />
+      <goal goal_number="2" goal_time="0:57:0" goal_type="G" player_name="Oscar DUARTE" team_id="13" team_name_short="CRC" />
+      <goal goal_number="3" goal_time="1:24:54" goal_type="G" player_name="Marcos URENA" team_id="13" team_name_short="CRC" />
+    </stats>
+    <stats game="8">
+      <goal goal_number="0" goal_time="0:35:4" goal_type="G" player_name="Claudio MARCHISIO" team_id="25" team_name_short="ITA" />
+      <goal goal_number="1" goal_time="0:37:41" goal_type="G" player_name="Daniel STURRIDGE" team_id="23" team_name_short="ENG" />
+      <goal goal_number="2" goal_time="0:50:40" goal_type="G" player_name="Mario BALOTELLI" team_id="25" team_name_short="ITA" />
+    </stats>
+    <stats game="9">
+      <goal goal_number="0" goal_time="0:22:35" goal_type="G" player_name="Enner VALENCIA" team_id="15" team_name_short="ECU" />
+      <goal goal_number="1" goal_time="0:48:7" goal_type="G" player_name="Admir MEHMEDI" team_id="31" team_name_short="SUI" />
+      <goal goal_number="2" goal_time="1:30:43" goal_type="G" player_name="Haris SEFEROVIC" team_id="31" team_name_short="SUI" />
+    </stats>
+    <stats game="10">
+      <goal goal_number="0" goal_time="0:45:42" goal_type="P" player_name="Karim BENZEMA" team_id="18" team_name_short="FRA" />
+      <goal goal_number="1" goal_time="0:48:21" goal_type="O" player_name="Noel VALLADARES" team_id="22" team_name_short="HON" />
+      <goal goal_number="2" goal_time="1:12:44" goal_type="G" player_name="Karim BENZEMA" team_id="18" team_name_short="FRA" />
+    </stats>
+    <stats game="11">
+      <goal goal_number="0" goal_time="0:3:9" goal_type="O" player_name="Sead KOLASINAC" team_id="6" team_name_short="BIH" />
+      <goal goal_number="1" goal_time="1:5:35" goal_type="G" player_name="Lionel MESSI" team_id="3" team_name_short="ARG" />
+      <goal goal_number="2" goal_time="1:25:1" goal_type="G" player_name="Vedad IBISEVIC" team_id="6" team_name_short="BIH" />
+    </stats>
+    <stats game="12" />
+    <stats game="13">
+      <goal goal_number="0" goal_time="0:12:37" goal_type="P" player_name="Thomas MUELLER" team_id="1" team_name_short="ALE" />
+      <goal goal_number="1" goal_time="0:32:13" goal_type="G" player_name="Mats HUMMELS" team_id="1" team_name_short="ALE" />
+      <goal goal_number="2" goal_time="0:45:24" goal_type="G" player_name="Thomas MUELLER" team_id="1" team_name_short="ALE" />
+      <goal goal_number="3" goal_time="1:18:44" goal_type="G" player_name="Thomas MUELLER" team_id="1" team_name_short="ALE" />
+    </stats>
+    <stats game="14">
+      <goal goal_number="0" goal_time="0:1:30" goal_type="G" player_name="Clint DEMPSEY" team_id="16" team_name_short="USA" />
+      <goal goal_number="1" goal_time="1:22:53" goal_type="G" player_name="Andre AYEW" team_id="19" team_name_short="GHA" />
+      <goal goal_number="2" goal_time="1:26:53" goal_type="G" player_name="John BROOKS" team_id="16" team_name_short="USA" />
+    </stats>
+    <stats game="15">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="16">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="17">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="18">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="19">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="20">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="21">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="22">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="23">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="24">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="25">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="26">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="27">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="28">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="29">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="30">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="31">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="32">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="33">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="34">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="35">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="36">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="37">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="38">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="39">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="40">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="41">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="42">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="43">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="44">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="45">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="46">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="47">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="48">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="49">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="50">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="51">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="52">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="53">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="54">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="55">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="56">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="57">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="58">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="59">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="60">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="61">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="62">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="63">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="64">
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+      <team goal_number="" goal_time="" goal_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+  </game_goal_statistics>
+  <game_card_statistics>
+    <stats game="1">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="2">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="3">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="4">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="5">
+      <card card_number="0" card_time="0:26:30" card_type="Y" player_name="Carlos SANCHEZ" team_id="11" team_name_short="COL" />
+      <card card_number="1" card_time="0:52:57" card_type="Y" player_name="Sokratis PAPASTATHOPOULOS" team_id="20" team_name_short="GRE" />
+      <card card_number="2" card_time="0:55:33" card_type="Y" player_name="Dimitrios SALPINGIDIS" team_id="20" team_name_short="GRE" />
+    </stats>
+    <stats game="6">
+      <card card_number="0" card_time="0:23:21" card_type="Y" player_name="Maya YOSHIDA" team_id="26" team_name_short="JPN" />
+      <card card_number="1" card_time="0:54:46" card_type="Y" player_name="Souleymane BAMBA" team_id="8" team_name_short="CIV" />
+      <card card_number="2" card_time="0:58:15" card_type="Y" player_name="Didier ZOKORA" team_id="8" team_name_short="CIV" />
+      <card card_number="3" card_time="1:4:8" card_type="Y" player_name="Masato MORISHIGE" team_id="26" team_name_short="JPN" />
+    </stats>
+    <stats game="7">
+      <card card_number="0" card_time="0:50:20" card_type="Y" player_name="Diego LUGANO" team_id="32" team_name_short="URU" />
+      <card card_number="1" card_time="0:56:0" card_type="Y" player_name="Walter GARGANO" team_id="32" team_name_short="URU" />
+      <card card_number="2" card_time="1:21:30" card_type="Y" player_name="Martin CACERES" team_id="32" team_name_short="URU" />
+      <card card_number="3" card_time="1:30:57" card_type="R" player_name="Maximiliano PEREIRA" team_id="32" team_name_short="URU" />
+    </stats>
+    <stats game="8">
+      <card card_number="0" card_time="1:30:44" card_type="Y" player_name="Raheem STERLING" team_id="23" team_name_short="ENG" />
+    </stats>
+    <stats game="9">
+      <card card_number="0" card_time="0:53:31" card_type="Y" player_name="Juan PAREDES" team_id="15" team_name_short="ECU" />
+      <card card_number="1" card_time="1:24:54" card_type="Y" player_name="Johan DJOUROU" team_id="31" team_name_short="SUI" />
+    </stats>
+    <stats game="10">
+      <card card_number="0" card_time="0:7:57" card_type="Y" player_name="Patrice EVRA" team_id="18" team_name_short="FRA" />
+      <card card_number="1" card_time="0:28:2" card_type="Y" player_name="Wilson PALACIOS" team_id="22" team_name_short="HON" />
+      <card card_number="2" card_time="0:28:29" card_type="Y" player_name="Paul POGBA" team_id="18" team_name_short="FRA" />
+      <card card_number="3" card_time="0:43:21" card_type="R" player_name="Wilson PALACIOS" team_id="22" team_name_short="HON" />
+      <card card_number="4" card_time="0:45:28" card_type="Y" player_name="Yohan CABAYE" team_id="18" team_name_short="FRA" />
+      <card card_number="5" card_time="0:53:45" card_type="Y" player_name="Boniek GARCIA" team_id="22" team_name_short="HON" />
+      <card card_number="6" card_time="1:23:23" card_type="Y" player_name="Luis GARRIDO" team_id="22" team_name_short="HON" />
+    </stats>
+    <stats game="11">
+      <card card_number="0" card_time="0:25:32" card_type="Y" player_name="Marcos ROJO" team_id="3" team_name_short="ARG" />
+      <card card_number="1" card_time="1:3:20" card_type="Y" player_name="Emir SPAHIC" team_id="6" team_name_short="BIH" />
+    </stats>
+    <stats game="12">
+      <card card_number="0" card_time="1:15:31" card_type="Y" player_name="Andranik TIMOTIAN" team_id="24" team_name_short="IRN" />
+    </stats>
+    <stats game="13">
+      <card card_number="0" card_time="0:11:23" card_type="Y" player_name="Joao PEREIRA" team_id="29" team_name_short="POR" />
+      <card card_number="1" card_time="0:37:39" card_type="R" player_name=" PEPE" team_id="29" team_name_short="POR" />
+    </stats>
+    <stats game="14">
+      <card card_number="0" card_time="0:30:55" card_type="Y" player_name="Mohammed RABIU" team_id="19" team_name_short="GHA" />
+      <card card_number="1" card_time="1:30:18" card_type="Y" player_name="Sulley MUNTARI" team_id="19" team_name_short="GHA" />
+    </stats>
+    <stats game="15">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="16">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="17">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="18">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="19">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="20">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="21">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="22">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="23">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="24">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="25">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="26">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="27">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="28">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="29">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="30">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="31">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="32">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="33">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="34">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="35">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="36">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="37">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="38">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="39">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="40">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="41">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="42">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="43">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="44">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="45">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="46">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="47">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="48">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="49">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="50">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="51">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="52">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="53">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="54">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="55">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="56">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="57">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="58">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="59">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="60">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="61">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="62">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="63">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+    <stats game="64">
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+      <team card_number="" card_time="" card_type="" player_name="" team_id="" team_name_short="" />
+    </stats>
+  </game_card_statistics>
+</Statistics>

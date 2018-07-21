@@ -1,0 +1,803 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Teams>
+  <team coach_name="Volker FINKE" team_abbr="ALE" team_id="1" team_name="Alemania">
+    <player player_club="" player_name="Miroslav KLOSE" player_num="" player_position="" />
+    <player player_club="" player_name="Roman WEIDENFELLER" player_num="" player_position="" />
+    <player player_club="" player_name="Philipp LAHM" player_num="" player_position="" />
+    <player player_club="" player_name="Bastian SCHWEINSTEIGER" player_num="" player_position="" />
+    <player player_club="" player_name="Lukas PODOLSKI" player_num="" player_position="" />
+    <player player_club="" player_name="Sami KHEDIRA" player_num="" player_position="" />
+    <player player_club="" player_name="Per MERTESACKER" player_num="" player_position="" />
+    <player player_club="" player_name="Manuel NEUER" player_num="" player_position="" />
+    <player player_club="" player_name="Toni KROOS" player_num="" player_position="" />
+    <player player_club="" player_name="Jerome BOATENG" player_num="" player_position="" />
+    <player player_club="" player_name="Ron-Robert ZIELER" player_num="" player_position="" />
+    <player player_club="" player_name="Mesut OEZIL" player_num="" player_position="" />
+    <player player_club="" player_name="Andre SCHUERRLE" player_num="" player_position="" />
+    <player player_club="" player_name="Shkodran MUSTAFI" player_num="" player_position="" />
+    <player player_club="" player_name="Mario GOETZE" player_num="" player_position="" />
+    <player player_club="" player_name="Benedikt HOEWEDES" player_num="" player_position="" />
+    <player player_club="" player_name="Mats HUMMELS" player_num="" player_position="" />
+    <player player_club="" player_name="Thomas MUELLER" player_num="" player_position="" />
+    <player player_club="" player_name="Julian DRAXLER" player_num="" player_position="" />
+    <player player_club="" player_name="Kevin GROSSKREUTZ" player_num="" player_position="" />
+    <player player_club="" player_name="Matthias GINTER" player_num="" player_position="" />
+    <player player_club="" player_name="Erik DURM" player_num="" player_position="" />
+    <player player_club="" player_name="Christoph KRAMER" player_num="" player_position="" />
+  </team>
+  <team coach_name="" team_abbr="ALG" team_id="2" team_name="Argelia">
+    <player player_club="" player_name="Hassan YEBDA" player_num="" player_position="" />
+    <player player_club="" player_name="Madjid BOUGUERRA" player_num="" player_position="" />
+    <player player_club="" player_name="Carl MEDJANI" player_num="" player_position="" />
+    <player player_club="" player_name="Rafik HALLICHE" player_num="" player_position="" />
+    <player player_club="" player_name="El Arabi SOUDANI" player_num="" player_position="" />
+    <player player_club="" player_name="Mohamed ZEMMAMOUCHE" player_num="" player_position="" />
+    <player player_club="" player_name="Sofiane FEGHOULI" player_num="" player_position="" />
+    <player player_club="" player_name="Medhi LACEN" player_num="" player_position="" />
+    <player player_club="" player_name="Rais MBOLHI" player_num="" player_position="" />
+    <player player_club="" player_name="Djamel MESBAH" player_num="" player_position="" />
+    <player player_club="" player_name="Islam SLIMANI" player_num="" player_position="" />
+    <player player_club="" player_name="Mehdi MOSTEFA" player_num="" player_position="" />
+    <player player_club="" player_name="Abdelmoumene DJABOU" player_num="" player_position="" />
+    <player player_club="" player_name="Liassine CADAMURO" player_num="" player_position="" />
+    <player player_club="" player_name="Esseid BELKALEM" player_num="" player_position="" />
+    <player player_club="" player_name="Cedric SI MOHAMMED" player_num="" player_position="" />
+    <player player_club="" player_name="Faouzi GHOULAM" player_num="" player_position="" />
+    <player player_club="" player_name="Yacine BRAHIMI" player_num="" player_position="" />
+    <player player_club="" player_name="Saphir TAIDER" player_num="" player_position="" />
+    <player player_club="" player_name="Nabil GHILAS" player_num="" player_position="" />
+    <player player_club="" player_name="Aissa MANDI" player_num="" player_position="" />
+    <player player_club="" player_name="Nabil BENTALEB" player_num="" player_position="" />
+    <player player_club="" player_name="Riyad MAHREZ" player_num="" player_position="" />
+  </team>
+  <team coach_name="Alejandro SABELLA" team_abbr="ARG" team_id="3" team_name="Argentina">
+    <player player_club="" player_name="Javier MASCHERANO" player_num="" player_position="" />
+    <player player_club="" player_name="Pablo ZABALETA" player_num="" player_position="" />
+    <player player_club="" player_name="Maxi RODRIGUEZ" player_num="" player_position="" />
+    <player player_club="" player_name="Ezequiel GARAY" player_num="" player_position="" />
+    <player player_club="" player_name="Lucas BIGLIA" player_num="" player_position="" />
+    <player player_club="" player_name="Fernando GAGO" player_num="" player_position="" />
+    <player player_club="" player_name="Sergio AGUERO" player_num="" player_position="" />
+    <player player_club="" player_name="Ezequiel LAVEZZI" player_num="" player_position="" />
+    <player player_club="" player_name="Lionel MESSI" player_num="" player_position="" />
+    <player player_club="" player_name="Rodrigo PALACIO" player_num="" player_position="" />
+    <player player_club="" player_name="Martin DEMICHELIS" player_num="" player_position="" />
+    <player player_club="" player_name="Sergio ROMERO" player_num="" player_position="" />
+    <player player_club="" player_name="Angel DI MARIA" player_num="" player_position="" />
+    <player player_club="" player_name="Gonzalo HIGUAIN" player_num="" player_position="" />
+    <player player_club="" player_name="Agustin ORION" player_num="" player_position="" />
+    <player player_club="" player_name="Augusto FERNANDEZ" player_num="" player_position="" />
+    <player player_club="" player_name="Mariano ANDUJAR" player_num="" player_position="" />
+    <player player_club="" player_name="Enzo Nicolas PEREZ" player_num="" player_position="" />
+    <player player_club="" player_name="Federico FERNANDEZ" player_num="" player_position="" />
+    <player player_club="" player_name="Marcos ROJO" player_num="" player_position="" />
+    <player player_club="" player_name="Ricardo ALVAREZ" player_num="" player_position="" />
+    <player player_club="" player_name="Jose Maria BASANTA" player_num="" player_position="" />
+    <player player_club="" player_name="Hugo CAMPAGNARO" player_num="" player_position="" />
+  </team>
+  <team coach_name="Ange POSTECOGLOU" team_abbr="AUS" team_id="4" team_name="Australia">
+    <player player_club="" player_name="Mark BRESCIANO" player_num="" player_position="" />
+    <player player_club="" player_name="Alex WILKINSON" player_num="" player_position="" />
+    <player player_club="" player_name="Matt McKAY" player_num="" player_position="" />
+    <player player_club="" player_name="Mark MILLIGAN" player_num="" player_position="" />
+    <player player_club="" player_name="Mile JEDINAK" player_num="" player_position="" />
+    <player player_club="" player_name="Eugen GALEKOVIC" player_num="" player_position="" />
+    <player player_club="" player_name="Tim CAHILL" player_num="" player_position="" />
+    <player player_club="" player_name="Matthew SPIRANOVIC" player_num="" player_position="" />
+    <player player_club="" player_name="James TROISI" player_num="" player_position="" />
+    <player player_club="" player_name="Dario VIDOSIC" player_num="" player_position="" />
+    <player player_club="" player_name="James HOLLAND" player_num="" player_position="" />
+    <player player_club="" player_name="Jason DAVIDSON" player_num="" player_position="" />
+    <player player_club="" player_name="Ryan McGOWAN" player_num="" player_position="" />
+    <player player_club="" player_name="Tommy OAR" player_num="" player_position="" />
+    <player player_club="" player_name="Oliver BOZANIC" player_num="" player_position="" />
+    <player player_club="" player_name="Mathew LECKIE" player_num="" player_position="" />
+    <player player_club="" player_name="Massimo LUONGO" player_num="" player_position="" />
+    <player player_club="" player_name="Maty RYAN" player_num="" player_position="" />
+    <player player_club="" player_name="Mitch LANGERAK" player_num="" player_position="" />
+    <player player_club="" player_name="Adam TAGGART" player_num="" player_position="" />
+    <player player_club="" player_name="Ivan FRANJIC" player_num="" player_position="" />
+    <player player_club="" player_name="Ben HALLORAN" player_num="" player_position="" />
+    <player player_club="" player_name="Bailey WRIGHT" player_num="" player_position="" />
+  </team>
+  <team coach_name="Marc WILMOTS" team_abbr="BEL" team_id="5" team_name="Bélgica">
+    <player player_club="" player_name="Vincent KOMPANY" player_num="" player_position="" />
+    <player player_club="" player_name="Anthony VANDEN BORRE" player_num="" player_position="" />
+    <player player_club="" player_name="Nicolas LOMBAERTS" player_num="" player_position="" />
+    <player player_club="" player_name="Thomas VERMAELEN" player_num="" player_position="" />
+    <player player_club="" player_name="Eden HAZARD" player_num="" player_position="" />
+    <player player_club="" player_name="Axel WITSEL" player_num="" player_position="" />
+    <player player_club="" player_name="Laurent CIMAN" player_num="" player_position="" />
+    <player player_club="" player_name="Steven DEFOUR" player_num="" player_position="" />
+    <player player_club="" player_name="Moussa DEMBELE" player_num="" player_position="" />
+    <player player_club="" player_name="Toby ALDERWEIRELD" player_num="" player_position="" />
+    <player player_club="" player_name="Marouane FELLAINI" player_num="" player_position="" />
+    <player player_club="" player_name="Kevin MIRALLAS" player_num="" player_position="" />
+    <player player_club="" player_name="Jan VERTONGHEN" player_num="" player_position="" />
+    <player player_club="" player_name="Simon MIGNOLET" player_num="" player_position="" />
+    <player player_club="" player_name="Thibaut COURTOIS" player_num="" player_position="" />
+    <player player_club="" player_name="Nacer CHADLI" player_num="" player_position="" />
+    <player player_club="" player_name="Romelu LUKAKU" player_num="" player_position="" />
+    <player player_club="" player_name="Dries MERTENS" player_num="" player_position="" />
+    <player player_club="" player_name="Kevin DE BRUYNE" player_num="" player_position="" />
+    <player player_club="" player_name="Daniel VAN BUYTEN" player_num="" player_position="" />
+    <player player_club="" player_name="Adnan JANUZAJ" player_num="" player_position="" />
+    <player player_club="" player_name="Divock ORIGI" player_num="" player_position="" />
+    <player player_club="" player_name="Sammy BOSSUT" player_num="" player_position="" />
+  </team>
+  <team coach_name="Vahid HALILHODZIC" team_abbr="BIH" team_id="6" team_name="Bosnia">
+    <player player_club="" player_name="Emir SPAHIC" player_num="" player_position="" />
+    <player player_club="" player_name="Zvjezdan MISIMOVIC" player_num="" player_position="" />
+    <player player_club="" player_name="Asmir BEGOVIC" player_num="" player_position="" />
+    <player player_club="" player_name="Haris MEDUNJANIN" player_num="" player_position="" />
+    <player player_club="" player_name="Miralem PJANIC" player_num="" player_position="" />
+    <player player_club="" player_name="Mensur MUJDZA" player_num="" player_position="" />
+    <player player_club="" player_name="Senijad IBRICIC" player_num="" player_position="" />
+    <player player_club="" player_name="Sejad SALIHOVIC" player_num="" player_position="" />
+    <player player_club="" player_name="Edin DZEKO" player_num="" player_position="" />
+    <player player_club="" player_name="Vedad IBISEVIC" player_num="" player_position="" />
+    <player player_club="" player_name="Izet HAJROVIC" player_num="" player_position="" />
+    <player player_club="" player_name="Asmir AVDUKIC" player_num="" player_position="" />
+    <player player_club="" player_name="Senad LULIC" player_num="" player_position="" />
+    <player player_club="" player_name="Muhamed BESIC" player_num="" player_position="" />
+    <player player_club="" player_name="Toni SUNJIC" player_num="" player_position="" />
+    <player player_club="" player_name="Ognjen VRANJES" player_num="" player_position="" />
+    <player player_club="" player_name="Avdija VRSAJEVIC" player_num="" player_position="" />
+    <player player_club="" player_name="Edin VISCA" player_num="" player_position="" />
+    <player player_club="" player_name="Jasmin FEJZIC" player_num="" player_position="" />
+    <player player_club="" player_name="Ermin BICAKCIC" player_num="" player_position="" />
+    <player player_club="" player_name="Anel HADZIC" player_num="" player_position="" />
+    <player player_club="" player_name="Sead KOLASINAC" player_num="" player_position="" />
+    <player player_club="" player_name="Tino Sven SUSIC" player_num="" player_position="" />
+  </team>
+  <team coach_name="Luiz Felipe SCOLARI" team_abbr="BRA" team_id="7" team_name="Brasil">
+    <player player_club="" player_name=" JULIO CESAR" player_num="" player_position="" />
+    <player player_club="" player_name=" MAICON" player_num="" player_position="" />
+    <player player_club="" player_name=" JEFFERSON" player_num="" player_position="" />
+    <player player_club="" player_name=" DANI ALVES" player_num="" player_position="" />
+    <player player_club="" player_name=" MAXWELL" player_num="" player_position="" />
+    <player player_club="" player_name=" FERNANDINHO" player_num="" player_position="" />
+    <player player_club="" player_name=" JO" player_num="" player_position="" />
+    <player player_club="" player_name=" MARCELO" player_num="" player_position="" />
+    <player player_club="" player_name=" WILLIAN" player_num="" player_position="" />
+    <player player_club="" player_name=" FRED" player_num="" player_position="" />
+    <player player_club="" player_name=" HERNANES" player_num="" player_position="" />
+    <player player_club="" player_name=" DAVID LUIZ" player_num="" player_position="" />
+    <player player_club="" player_name="Thiago SILVA" player_num="" player_position="" />
+    <player player_club="" player_name=" HENRIQUE" player_num="" player_position="" />
+    <player player_club="" player_name=" RAMIRES" player_num="" player_position="" />
+    <player player_club="" player_name=" VICTOR" player_num="" player_position="" />
+    <player player_club="" player_name=" OSCAR" player_num="" player_position="" />
+    <player player_club="" player_name=" NEYMAR" player_num="" player_position="" />
+    <player player_club="" player_name=" HULK" player_num="" player_position="" />
+    <player player_club="" player_name=" BERNARD" player_num="" player_position="" />
+    <player player_club="" player_name=" PAULINHO" player_num="" player_position="" />
+    <player player_club="" player_name=" DANTE" player_num="" player_position="" />
+    <player player_club="" player_name=" LUIZ GUSTAVO" player_num="" player_position="" />
+  </team>
+  <team coach_name="" team_abbr="CIV" team_id="8" team_name="C. de Marfil">
+    <player player_club="" player_name="Didier ZOKORA" player_num="" player_position="" />
+    <player player_club="" player_name="Boubacar BARRY" player_num="" player_position="" />
+    <player player_club="" player_name="Kolo TOURE" player_num="" player_position="" />
+    <player player_club="" player_name="Yaya TOURE" player_num="" player_position="" />
+    <player player_club="" player_name="Arthur BOKA" player_num="" player_position="" />
+    <player player_club="" player_name="Souleymane BAMBA" player_num="" player_position="" />
+    <player player_club="" player_name="Didier DROGBA" player_num="" player_position="" />
+    <player player_club="" player_name="Salomon KALOU" player_num="" player_position="" />
+    <player player_club="" player_name="Constant DJAKPA" player_num="" player_position="" />
+    <player player_club="" player_name=" GERVINHO" player_num="" player_position="" />
+    <player player_club="" player_name="Ismael TIOTE" player_num="" player_position="" />
+    <player player_club="" player_name="Ousmane DIARRASSOUBA" player_num="" player_position="" />
+    <player player_club="" player_name="Konan YA" player_num="" player_position="" />
+    <player player_club="" player_name="Giovanni SIO" player_num="" player_position="" />
+    <player player_club="" player_name="Wilfried BONY" player_num="" player_position="" />
+    <player player_club="" player_name="Max GRADEL" player_num="" player_position="" />
+    <player player_club="" player_name="Die SEREY" player_num="" player_position="" />
+    <player player_club="" player_name="Jean Daniel AKPA" player_num="" player_position="" />
+    <player player_club="" player_name="Sylvain GBOHOUO" player_num="" player_position="" />
+    <player player_club="" player_name="Serge AURIER" player_num="" player_position="" />
+    <player player_club="" player_name="Mathis BOLLY" player_num="" player_position="" />
+    <player player_club="" player_name="Ismael DIOMANDE" player_num="" player_position="" />
+    <player player_club="" player_name="Sayouba MANDE" player_num="" player_position="" />
+  </team>
+  <team coach_name="" team_abbr="CMR" team_id="9" team_name="Camerun">
+    <player player_club="" player_name="Samuel ETOO" player_num="" player_position="" />
+    <player player_club="" player_name="Jean MAKOUN" player_num="" player_position="" />
+    <player player_club="" player_name="Dany NOUNKEU" player_num="" player_position="" />
+    <player player_club="" player_name="Alexandre SONG" player_num="" player_position="" />
+    <player player_club="" player_name="Landry NGUEMO" player_num="" player_position="" />
+    <player player_club="" player_name="Stephane MBIA" player_num="" player_position="" />
+    <player player_club="" player_name="Pierre WEBO" player_num="" player_position="" />
+    <player player_club="" player_name="Charles ITANDJE" player_num="" player_position="" />
+    <player player_club="" player_name="Aurelien CHEDJOU" player_num="" player_position="" />
+    <player player_club="" player_name="Nicolas NKOULOU" player_num="" player_position="" />
+    <player player_club="" player_name="Benjamin MOUKANDJO" player_num="" player_position="" />
+    <player player_club="" player_name="Benoit ASSOU EKOTTO" player_num="" player_position="" />
+    <player player_club="" player_name="Eyong ENOH" player_num="" player_position="" />
+    <player player_club="" player_name="Eric CHOUPO MOTING" player_num="" player_position="" />
+    <player player_club="" player_name="Henri BEDIMO" player_num="" player_position="" />
+    <player player_club="" player_name="Joel MATIP" player_num="" player_position="" />
+    <player player_club="" player_name="Vincent ABOUBAKAR" player_num="" player_position="" />
+    <player player_club="" player_name="Edgar SALLI" player_num="" player_position="" />
+    <player player_club="" player_name="Allan NYOM" player_num="" player_position="" />
+    <player player_club="" player_name="Loic FEUDJOU" player_num="" player_position="" />
+    <player player_club="" player_name="Fabrice OLINGA" player_num="" player_position="" />
+    <player player_club="" player_name="Sammy NDJOCK" player_num="" player_position="" />
+    <player player_club="" player_name="Cedric DJEUGOUE" player_num="" player_position="" />
+  </team>
+  <team coach_name="" team_abbr="CHI" team_id="10" team_name="Chile">
+    <player player_club="" player_name="Johnny HERRERA" player_num="" player_position="" />
+    <player player_club="" player_name="Mauricio PINILLA" player_num="" player_position="" />
+    <player player_club="" player_name="Claudio BRAVO" player_num="" player_position="" />
+    <player player_club="" player_name="Jorge VALDIVIA" player_num="" player_position="" />
+    <player player_club="" player_name="Jean BEAUSEJOUR" player_num="" player_position="" />
+    <player player_club="" player_name="Mauricio ISLA" player_num="" player_position="" />
+    <player player_club="" player_name="Cristopher TOSELLI" player_num="" player_position="" />
+    <player player_club="" player_name="Alexis SANCHEZ" player_num="" player_position="" />
+    <player player_club="" player_name="Carlos CARMONA" player_num="" player_position="" />
+    <player player_club="" player_name="Gonzalo JARA" player_num="" player_position="" />
+    <player player_club="" player_name="Jose FUENZALIDA" player_num="" player_position="" />
+    <player player_club="" player_name="Marcelo DIAZ" player_num="" player_position="" />
+    <player player_club="" player_name="Jose ROJAS" player_num="" player_position="" />
+    <player player_club="" player_name="Gary MEDEL" player_num="" player_position="" />
+    <player player_club="" player_name="Arturo VIDAL" player_num="" player_position="" />
+    <player player_club="" player_name="Eduardo VARGAS" player_num="" player_position="" />
+    <player player_club="" player_name="Fabian ORELLANA" player_num="" player_position="" />
+    <player player_club="" player_name="Esteban PAREDES" player_num="" player_position="" />
+    <player player_club="" player_name="Charles ARANGUIZ" player_num="" player_position="" />
+    <player player_club="" player_name="Francisco SILVA" player_num="" player_position="" />
+    <player player_club="" player_name="Felipe GUTIERREZ" player_num="" player_position="" />
+    <player player_club="" player_name="Eugenio MENA" player_num="" player_position="" />
+    <player player_club="" player_name="Miiko ALBORNOZ" player_num="" player_position="" />
+  </team>
+  <team coach_name="Jorge Luis PINTO" team_abbr="COL" team_id="11" team_name="Colombia">
+    <player player_club="" player_name="Mario YEPES" player_num="" player_position="" />
+    <player player_club="" player_name="Faryd MONDRAGON" player_num="" player_position="" />
+    <player player_club="" player_name="Abel AGUILAR" player_num="" player_position="" />
+    <player player_club="" player_name="Cristian ZAPATA" player_num="" player_position="" />
+    <player player_club="" player_name="Pablo ARMERO" player_num="" player_position="" />
+    <player player_club="" player_name="Fredy GUARIN" player_num="" player_position="" />
+    <player player_club="" player_name="Adrian RAMOS" player_num="" player_position="" />
+    <player player_club="" player_name="Carlos VALDES" player_num="" player_position="" />
+    <player player_club="" player_name="David OSPINA" player_num="" player_position="" />
+    <player player_club="" player_name="Alexander MEJIA" player_num="" player_position="" />
+    <player player_club="" player_name="Juan ZUNIGA" player_num="" player_position="" />
+    <player player_club="" player_name="James RODRIGUEZ" player_num="" player_position="" />
+    <player player_club="" player_name="Carlos SANCHEZ" player_num="" player_position="" />
+    <player player_club="" player_name="Juan CUADRADO" player_num="" player_position="" />
+    <player player_club="" player_name="Teofilo GUTIERREZ" player_num="" player_position="" />
+    <player player_club="" player_name="Jackson MARTINEZ" player_num="" player_position="" />
+    <player player_club="" player_name="Santiago ARIAS" player_num="" player_position="" />
+    <player player_club="" player_name="Carlos BACCA" player_num="" player_position="" />
+    <player player_club="" player_name="Carlos CARBONERO" player_num="" player_position="" />
+    <player player_club="" player_name="Victor IBARBO" player_num="" player_position="" />
+    <player player_club="" player_name="Juan QUINTERO" player_num="" player_position="" />
+    <player player_club="" player_name="Camilo VARGAS" player_num="" player_position="" />
+    <player player_club="" player_name="Eder BALANTA" player_num="" player_position="" />
+  </team>
+  <team coach_name="Myungbo HONG" team_abbr="KOR" team_id="12" team_name="Core del S.">
+    <player player_club="" player_name="Sungryong JUNG" player_num="" player_position="" />
+    <player player_club="" player_name="Chuyoung PARK" player_num="" player_position="" />
+    <player player_club="" player_name="Taehwi KWAK" player_num="" player_position="" />
+    <player player_club="" player_name="Keunho LEE" player_num="" player_position="" />
+    <player player_club="" player_name="Sungyueng KI" player_num="" player_position="" />
+    <player player_club="" player_name="Jooho PARK" player_num="" player_position="" />
+    <player player_club="" player_name="Chungyong LEE" player_num="" player_position="" />
+    <player player_club="" player_name="Seunggyu KIM" player_num="" player_position="" />
+    <player player_club="" player_name="Sukyoung YUN" player_num="" player_position="" />
+    <player player_club="" player_name="Kookyoung HAN" player_num="" player_position="" />
+    <player player_club="" player_name="Changsoo KIM" player_num="" player_position="" />
+    <player player_club="" player_name="Bokyung KIM" player_num="" player_position="" />
+    <player player_club="" player_name="Jacheol KOO" player_num="" player_position="" />
+    <player player_club="" player_name="Jongwoo PARK" player_num="" player_position="" />
+    <player player_club="" player_name="Daesung HA" player_num="" player_position="" />
+    <player player_club="" player_name="Bumyoung LEE" player_num="" player_position="" />
+    <player player_club="" player_name="Heungmin SON" player_num="" player_position="" />
+    <player player_club="" player_name="Jeongho HONG" player_num="" player_position="" />
+    <player player_club="" player_name="Shinwook KIM" player_num="" player_position="" />
+    <player player_club="" player_name="Dongwon JI" player_num="" player_position="" />
+    <player player_club="" player_name="Seokho HWANG" player_num="" player_position="" />
+    <player player_club="" player_name="Yong LEE" player_num="" player_position="" />
+    <player player_club="" player_name="Younggwon KIM" player_num="" player_position="" />
+  </team>
+  <team coach_name="" team_abbr="CRC" team_id="13" team_name="Costa Rica">
+    <player player_club="" player_name="Christian BOLANOS" player_num="" player_position="" />
+    <player player_club="" player_name="Roy MILLER" player_num="" player_position="" />
+    <player player_club="" player_name="Daniel CAMBRONERO" player_num="" player_position="" />
+    <player player_club="" player_name="Keylor NAVAS" player_num="" player_position="" />
+    <player player_club="" player_name="Michael UMANA" player_num="" player_position="" />
+    <player player_club="" player_name="Junior DIAZ" player_num="" player_position="" />
+    <player player_club="" player_name="Patrick PEMBERTON" player_num="" player_position="" />
+    <player player_club="" player_name="Bryan RUIZ" player_num="" player_position="" />
+    <player player_club="" player_name="Celso BORGES" player_num="" player_position="" />
+    <player player_club="" player_name="Dave MYRIE" player_num="" player_position="" />
+    <player player_club="" player_name="Randall BRENES" player_num="" player_position="" />
+    <player player_club="" player_name="Giancarlo GONZALEZ" player_num="" player_position="" />
+    <player player_club="" player_name="Jose CUBERO" player_num="" player_position="" />
+    <player player_club="" player_name="Marcos URENA" player_num="" player_position="" />
+    <player player_club="" player_name="Michael BARRANTES" player_num="" player_position="" />
+    <player player_club="" player_name="Oscar GRANADOS" player_num="" player_position="" />
+    <player player_club="" player_name="Cristian GAMBOA" player_num="" player_position="" />
+    <player player_club="" player_name="Joel CAMPBELL" player_num="" player_position="" />
+    <player player_club="" player_name="Yeltsin TEJEDA" player_num="" player_position="" />
+    <player player_club="" player_name="Oscar DUARTE" player_num="" player_position="" />
+    <player player_club="" player_name="Diego CALVO" player_num="" player_position="" />
+    <player player_club="" player_name="Johnny ACOSTA" player_num="" player_position="" />
+    <player player_club="" player_name="Waylon FRANCIS" player_num="" player_position="" />
+  </team>
+  <team coach_name="Niko KOVAC" team_abbr="CRO" team_id="14" team_name="Croacia">
+    <player player_club="" player_name="Stipe PLETIKOSA" player_num="" player_position="" />
+    <player player_club="" player_name="Ivica OLIC" player_num="" player_position="" />
+    <player player_club="" player_name="Danijel PRANJIC" player_num="" player_position="" />
+    <player player_club="" player_name="Darijo SRNA" player_num="" player_position="" />
+    <player player_club="" player_name=" EDUARDO" player_num="" player_position="" />
+    <player player_club="" player_name="Luka MODRIC" player_num="" player_position="" />
+    <player player_club="" player_name="Ivan RAKITIC" player_num="" player_position="" />
+    <player player_club="" player_name="Vedran CORLUKA" player_num="" player_position="" />
+    <player player_club="" player_name="Ognjen VUKOJEVIC" player_num="" player_position="" />
+    <player player_club="" player_name="Danijel SUBASIC" player_num="" player_position="" />
+    <player player_club="" player_name="Domagoj VIDA" player_num="" player_position="" />
+    <player player_club="" player_name="Dejan LOVREN" player_num="" player_position="" />
+    <player player_club="" player_name="Nikica JELAVIC" player_num="" player_position="" />
+    <player player_club="" player_name="Sime VRSALJKO" player_num="" player_position="" />
+    <player player_club="" player_name="Mateo KOVACIC" player_num="" player_position="" />
+    <player player_club="" player_name="Gordon SCHILDENFELD" player_num="" player_position="" />
+    <player player_club="" player_name="Milan BADELJ" player_num="" player_position="" />
+    <player player_club="" player_name=" SAMMIR" player_num="" player_position="" />
+    <player player_club="" player_name="Ivan PERISIC" player_num="" player_position="" />
+    <player player_club="" player_name="Oliver ZELENIKA" player_num="" player_position="" />
+    <player player_club="" player_name="Ante REBIC" player_num="" player_position="" />
+    <player player_club="" player_name="Mario MANDZUKIC" player_num="" player_position="" />
+    <player player_club="" player_name="Marcelo BROZOVIC" player_num="" player_position="" />
+  </team>
+  <team coach_name="" team_abbr="ECU" team_id="15" team_name="Ecuador">
+    <player player_club="" player_name="Edison MENDEZ" player_num="" player_position="" />
+    <player player_club="" player_name="Jorge GUAGUA" player_num="" player_position="" />
+    <player player_club="" player_name="Walter AYOVI" player_num="" player_position="" />
+    <player player_club="" player_name="Luis SARITAMA" player_num="" player_position="" />
+    <player player_club="" player_name="Antonio VALENCIA" player_num="" player_position="" />
+    <player player_club="" player_name="Felipe CAICEDO" player_num="" player_position="" />
+    <player player_club="" player_name="Gabriel ACHILIER" player_num="" player_position="" />
+    <player player_club="" player_name="Oscar BAGUI" player_num="" player_position="" />
+    <player player_club="" player_name="Cristhian NOBOA" player_num="" player_position="" />
+    <player player_club="" player_name="Jefferson MONTERO" player_num="" player_position="" />
+    <player player_club="" player_name="Maximo Orlando BANGUERA VALDIVIESO" player_num="" player_position="" />
+    <player player_club="" player_name="Alexander DOMINGUEZ" player_num="" player_position="" />
+    <player player_club="" player_name="Joao ROJAS" player_num="" player_position="" />
+    <player player_club="" player_name="Carlos GRUEZO" player_num="" player_position="" />
+    <player player_club="" player_name="Alex IBARRA" player_num="" player_position="" />
+    <player player_club="" player_name="Adrian BONE" player_num="" player_position="" />
+    <player player_club="" player_name="Jaimen AYOVI" player_num="" player_position="" />
+    <player player_club="" player_name="Michael Antonio ARROYO MINA" player_num="" player_position="" />
+    <player player_club="" player_name="Juan PAREDES" player_num="" player_position="" />
+    <player player_club="" player_name="Frickson ERAZO" player_num="" player_position="" />
+    <player player_club="" player_name="Tilson Oswaldo MINDA SUSCAL" player_num="" player_position="" />
+    <player player_club="" player_name="Enner VALENCIA" player_num="" player_position="" />
+    <player player_club="" player_name="Fidel MARTINEZ" player_num="" player_position="" />
+  </team>
+  <team coach_name="" team_abbr="USA" team_id="16" team_name="EEUU">
+    <player player_club="" player_name="DaMarcus BEASLEY" player_num="" player_position="" />
+    <player player_club="" player_name="Kyle BECKERMAN" player_num="" player_position="" />
+    <player player_club="" player_name="Tim HOWARD" player_num="" player_position="" />
+    <player player_club="" player_name="Brad DAVIS" player_num="" player_position="" />
+    <player player_club="" player_name="Jermaine JONES" player_num="" player_position="" />
+    <player player_club="" player_name="Nick RIMANDO" player_num="" player_position="" />
+    <player player_club="" player_name="Clint DEMPSEY" player_num="" player_position="" />
+    <player player_club="" player_name="Michael BRADLEY" player_num="" player_position="" />
+    <player player_club="" player_name="Omar GONZALEZ" player_num="" player_position="" />
+    <player player_club="" player_name="Jozy ALTIDORE" player_num="" player_position="" />
+    <player player_club="" player_name="Brad GUZAN" player_num="" player_position="" />
+    <player player_club="" player_name="Alejandro BEDOYA" player_num="" player_position="" />
+    <player player_club="" player_name="Fabian JOHNSON" player_num="" player_position="" />
+    <player player_club="" player_name="Mix DISKERUD" player_num="" player_position="" />
+    <player player_club="" player_name="Geoff CAMERON" player_num="" player_position="" />
+    <player player_club="" player_name="Chris WONDOLOWSKI" player_num="" player_position="" />
+    <player player_club="" player_name="Graham ZUSI" player_num="" player_position="" />
+    <player player_club="" player_name="Timmy CHANDLER" player_num="" player_position="" />
+    <player player_club="" player_name="Aron JOHANNSSON" player_num="" player_position="" />
+    <player player_club="" player_name="Matt BESLER" player_num="" player_position="" />
+    <player player_club="" player_name="DeAndre YEDLIN" player_num="" player_position="" />
+    <player player_club="" player_name="Julian GREEN" player_num="" player_position="" />
+    <player player_club="" player_name="John BROOKS" player_num="" player_position="" />
+  </team>
+  <team coach_name="Vicente DEL BOSQUE" team_abbr="ESP" team_id="17" team_name="España">
+    <player player_club="" player_name="Pepe REINA" player_num="" player_position="" />
+    <player player_club="" player_name="Iker CASILLAS" player_num="" player_position="" />
+    <player player_club="" player_name="Xavi HERNANDEZ" player_num="" player_position="" />
+    <player player_club="" player_name="Andres INIESTA" player_num="" player_position="" />
+    <player player_club="" player_name="Fernando TORRES" player_num="" player_position="" />
+    <player player_club="" player_name="David SILVA" player_num="" player_position="" />
+    <player player_club="" player_name="Cesc FABREGAS" player_num="" player_position="" />
+    <player player_club="" player_name="Xabi ALONSO" player_num="" player_position="" />
+    <player player_club="" player_name=" JUANFRAN" player_num="" player_position="" />
+    <player player_club="" player_name="Sergio RAMOS" player_num="" player_position="" />
+    <player player_club="" player_name="Raul ALBIOL" player_num="" player_position="" />
+    <player player_club="" player_name="Gerard PIQUE" player_num="" player_position="" />
+    <player player_club="" player_name="David VILLA" player_num="" player_position="" />
+    <player player_club="" player_name="Juan MATA" player_num="" player_position="" />
+    <player player_club="" player_name="David DE GEA" player_num="" player_position="" />
+    <player player_club="" player_name="Javi MARTINEZ" player_num="" player_position="" />
+    <player player_club="" player_name="Cesar AZPILICUETA" player_num="" player_position="" />
+    <player player_club="" player_name="Santi CAZORLA" player_num="" player_position="" />
+    <player player_club="" player_name="Sergio BUSQUETS" player_num="" player_position="" />
+    <player player_club="" player_name="Jordi ALBA" player_num="" player_position="" />
+    <player player_club="" player_name=" KOKE" player_num="" player_position="" />
+    <player player_club="" player_name="Pedro RODRIGUEZ" player_num="" player_position="" />
+    <player player_club="" player_name="Diego COSTA" player_num="" player_position="" />
+  </team>
+  <team coach_name="Sabri LAMOUCHI" team_abbr="FRA" team_id="18" team_name="Francia">
+    <player player_club="" player_name="Mickael LANDREAU" player_num="" player_position="" />
+    <player player_club="" player_name="Patrice EVRA" player_num="" player_position="" />
+    <player player_club="" player_name="Antonio MAVUBA" player_num="" player_position="" />
+    <player player_club="" player_name="Bacary SAGNA" player_num="" player_position="" />
+    <player player_club="" player_name="Mamadou SAKHO" player_num="" player_position="" />
+    <player player_club="" player_name="Karim BENZEMA" player_num="" player_position="" />
+    <player player_club="" player_name="Hugo LLORIS" player_num="" player_position="" />
+    <player player_club="" player_name="Mathieu VALBUENA" player_num="" player_position="" />
+    <player player_club="" player_name="Loic REMY" player_num="" player_position="" />
+    <player player_club="" player_name="Moussa SISSOKO" player_num="" player_position="" />
+    <player player_club="" player_name="Eliaquim MANGALA" player_num="" player_position="" />
+    <player player_club="" player_name="Antoine GRIEZMANN" player_num="" player_position="" />
+    <player player_club="" player_name="Mathieu DEBUCHY" player_num="" player_position="" />
+    <player player_club="" player_name="Laurent KOSCIELNY" player_num="" player_position="" />
+    <player player_club="" player_name="Yohan CABAYE" player_num="" player_position="" />
+    <player player_club="" player_name="Blaise MATUIDI" player_num="" player_position="" />
+    <player player_club="" player_name="Olivier GIROUD" player_num="" player_position="" />
+    <player player_club="" player_name="Raphael VARANE" player_num="" player_position="" />
+    <player player_club="" player_name="Stephane RUFFIER" player_num="" player_position="" />
+    <player player_club="" player_name="Remy CABELLA" player_num="" player_position="" />
+    <player player_club="" player_name="Paul POGBA" player_num="" player_position="" />
+    <player player_club="" player_name="Lucas DIGNE" player_num="" player_position="" />
+    <player player_club="" player_name="Morgan SCHNEIDERLIN" player_num="" player_position="" />
+  </team>
+  <team coach_name="Akwasi APPIAH" team_abbr="GHA" team_id="19" team_name="Ghana">
+    <player player_club="" player_name="Michael ESSIEN" player_num="" player_position="" />
+    <player player_club="" player_name="Sulley MUNTARI" player_num="" player_position="" />
+    <player player_club="" player_name="Kevin Prince BOATENG" player_num="" player_position="" />
+    <player player_club="" player_name="Asamoah GYAN" player_num="" player_position="" />
+    <player player_club="" player_name="Mubarak WAKASO" player_num="" player_position="" />
+    <player player_club="" player_name="Samuel INKOOM" player_num="" player_position="" />
+    <player player_club="" player_name="Daniel OPARE" player_num="" player_position="" />
+    <player player_club="" player_name="Emmanuel BADU" player_num="" player_position="" />
+    <player player_club="" player_name="Kwadwo ASAMOAH" player_num="" player_position="" />
+    <player player_club="" player_name="Andre AYEW" player_num="" player_position="" />
+    <player player_club="" player_name="Harrison AFFUL" player_num="" player_position="" />
+    <player player_club="" player_name="John BOYE" player_num="" player_position="" />
+    <player player_club="" player_name="Jonathan MENSAH" player_num="" player_position="" />
+    <player player_club="" player_name="Mohammed RABIU" player_num="" player_position="" />
+    <player player_club="" player_name="Stephen ADAMS" player_num="" player_position="" />
+    <player player_club="" player_name="Jordan AYEW" player_num="" player_position="" />
+    <player player_club="" player_name="Adam KWARASEY" player_num="" player_position="" />
+    <player player_club="" player_name="Christian ATSU" player_num="" player_position="" />
+    <player player_club="" player_name="Albert ADOMAH" player_num="" player_position="" />
+    <player player_club="" player_name="Majeed WARIS" player_num="" player_position="" />
+    <player player_club="" player_name="Rashid SUMAILA" player_num="" player_position="" />
+    <player player_club="" player_name="Fatawu DAUDA" player_num="" player_position="" />
+    <player player_club="" player_name="Acquah AFRIYIE" player_num="" player_position="" />
+  </team>
+  <team coach_name="" team_abbr="GRE" team_id="20" team_name="Grecia">
+    <player player_club="" player_name="Georgios KARAGOUNIS" player_num="" player_position="" />
+    <player player_club="" player_name="Konstantinos KATSOURANIS" player_num="" player_position="" />
+    <player player_club="" player_name="Vangelis MORAS" player_num="" player_position="" />
+    <player player_club="" player_name="Loukas VYNTRA" player_num="" player_position="" />
+    <player player_club="" player_name="Dimitrios SALPINGIDIS" player_num="" player_position="" />
+    <player player_club="" player_name="Orestis KARNEZIS" player_num="" player_position="" />
+    <player player_club="" player_name="Vasileios TOROSIDIS" player_num="" player_position="" />
+    <player player_club="" player_name="Alexandros TZIOLIS" player_num="" player_position="" />
+    <player player_club="" player_name="Theofanis GEKAS" player_num="" player_position="" />
+    <player player_club="" player_name="Georgios SAMARAS" player_num="" player_position="" />
+    <player player_club="" player_name="Lazaros CHRISTODOULOPOULOS" player_num="" player_position="" />
+    <player player_club="" player_name="Sokratis PAPASTATHOPOULOS" player_num="" player_position="" />
+    <player player_club="" player_name="Konstantinos MITROGLOU" player_num="" player_position="" />
+    <player player_club="" player_name="Georgios TZAVELAS" player_num="" player_position="" />
+    <player player_club="" player_name="Panagiotis TACHTSIDIS" player_num="" player_position="" />
+    <player player_club="" player_name="Ioannis MANIATIS" player_num="" player_position="" />
+    <player player_club="" player_name="Konstantinos MANOLAS" player_num="" player_position="" />
+    <player player_club="" player_name="Jose CHOLEVAS" player_num="" player_position="" />
+    <player player_club="" player_name="Ioannis FETFATZIDIS" player_num="" player_position="" />
+    <player player_club="" player_name="Panagiotis KONE" player_num="" player_position="" />
+    <player player_club="" player_name="Panagiotis GLYKOS" player_num="" player_position="" />
+    <player player_club="" player_name="Stefanos KAPINO" player_num="" player_position="" />
+    <player player_club="" player_name="Andreas SAMARIS" player_num="" player_position="" />
+  </team>
+  <team coach_name="Louis VAN GAAL" team_abbr="NED" team_id="21" team_name="Holanda">
+    <player player_club="" player_name="Klaas Jan HUNTELAAR" player_num="" player_position="" />
+    <player player_club="" player_name="Arjen ROBBEN" player_num="" player_position="" />
+    <player player_club="" player_name="Wesley SNEIJDER" player_num="" player_position="" />
+    <player player_club="" player_name="Ron VLAAR" player_num="" player_position="" />
+    <player player_club="" player_name="Nigel DE JONG" player_num="" player_position="" />
+    <player player_club="" player_name="Dirk KUYT" player_num="" player_position="" />
+    <player player_club="" player_name="Robin VAN PERSIE" player_num="" player_position="" />
+    <player player_club="" player_name="Tim KRUL" player_num="" player_position="" />
+    <player player_club="" player_name="Michel VORM" player_num="" player_position="" />
+    <player player_club="" player_name="Paul VERHAEGH" player_num="" player_position="" />
+    <player player_club="" player_name="Jonathan DE GUZMAN" player_num="" player_position="" />
+    <player player_club="" player_name="Jeremain LENS" player_num="" player_position="" />
+    <player player_club="" player_name="Stefan DE VRIJ" player_num="" player_position="" />
+    <player player_club="" player_name="Joel VELTMAN" player_num="" player_position="" />
+    <player player_club="" player_name="Daryl JANMAAT" player_num="" player_position="" />
+    <player player_club="" player_name="Daley BLIND" player_num="" player_position="" />
+    <player player_club="" player_name="Leroy FER" player_num="" player_position="" />
+    <player player_club="" player_name="Georginio WIJNALDUM" player_num="" player_position="" />
+    <player player_club="" player_name="Terence KONGOLO" player_num="" player_position="" />
+    <player player_club="" player_name="Memphis DEPAY" player_num="" player_position="" />
+    <player player_club="" player_name="Jordy CLASIE" player_num="" player_position="" />
+    <player player_club="" player_name="Bruno MARTINS INDI" player_num="" player_position="" />
+    <player player_club="" player_name="Jasper CILLESSEN" player_num="" player_position="" />
+  </team>
+  <team coach_name="" team_abbr="HON" team_id="22" team_name="Honduras">
+    <player player_club="" player_name="Noel VALLADARES" player_num="" player_position="" />
+    <player player_club="" player_name="Wilson PALACIOS" player_num="" player_position="" />
+    <player player_club="" player_name="Donis ESCOBER" player_num="" player_position="" />
+    <player player_club="" player_name="Victor BERNARDEZ" player_num="" player_position="" />
+    <player player_club="" player_name="Maynor FIGUEROA" player_num="" player_position="" />
+    <player player_club="" player_name="Jerry PALACIOS" player_num="" player_position="" />
+    <player player_club="" player_name="Marvin CHAVEZ" player_num="" player_position="" />
+    <player player_club="" player_name="Jorge CLAROS" player_num="" player_position="" />
+    <player player_club="" player_name="Emilio IZAGUIRRE" player_num="" player_position="" />
+    <player player_club="" player_name="Boniek GARCIA" player_num="" player_position="" />
+    <player player_club="" player_name="Luis GARRIDO" player_num="" player_position="" />
+    <player player_club="" player_name="Carlo COSTLY" player_num="" player_position="" />
+    <player player_club="" player_name="Mario MARTINEZ" player_num="" player_position="" />
+    <player player_club="" player_name="Juan Carlos GARCIA" player_num="" player_position="" />
+    <player player_club="" player_name="Edder DELGADO" player_num="" player_position="" />
+    <player player_club="" player_name="Osman CHAVEZ" player_num="" player_position="" />
+    <player player_club="" player_name="Roger ESPINOZA" player_num="" player_position="" />
+    <player player_club="" player_name="Jerry BENGTSON" player_num="" player_position="" />
+    <player player_club="" player_name="Andy NAJAR" player_num="" player_position="" />
+    <player player_club="" player_name="Brayan BECKELES" player_num="" player_position="" />
+    <player player_club="" player_name="Juan MONTES" player_num="" player_position="" />
+    <player player_club="" player_name="Rony MARTINEZ" player_num="" player_position="" />
+    <player player_club="" player_name="Luis LOPEZ" player_num="" player_position="" />
+  </team>
+  <team coach_name="Roy HODGSON" team_abbr="ENG" team_id="23" team_name="Inglaterra">
+    <player player_club="" player_name="Frank LAMPARD" player_num="" player_position="" />
+    <player player_club="" player_name="Wayne ROONEY" player_num="" player_position="" />
+    <player player_club="" player_name="Glen JOHNSON" player_num="" player_position="" />
+    <player player_club="" player_name="James MILNER" player_num="" player_position="" />
+    <player player_club="" player_name="Steven GERRARD" player_num="" player_position="" />
+    <player player_club="" player_name="Ben FOSTER" player_num="" player_position="" />
+    <player player_club="" player_name="Danny WELBECK" player_num="" player_position="" />
+    <player player_club="" player_name="Joe HART" player_num="" player_position="" />
+    <player player_club="" player_name="Phil JAGIELKA" player_num="" player_position="" />
+    <player player_club="" player_name="Gary CAHILL" player_num="" player_position="" />
+    <player player_club="" player_name="Leighton BAINES" player_num="" player_position="" />
+    <player player_club="" player_name="Daniel STURRIDGE" player_num="" player_position="" />
+    <player player_club="" player_name="Jack WILSHERE" player_num="" player_position="" />
+    <player player_club="" player_name="Raheem STERLING" player_num="" player_position="" />
+    <player player_club="" player_name="Luke SHAW" player_num="" player_position="" />
+    <player player_club="" player_name="Jordan HENDERSON" player_num="" player_position="" />
+    <player player_club="" player_name="Alex OXLADE CHAMBERLAIN" player_num="" player_position="" />
+    <player player_club="" player_name="Chris SMALLING" player_num="" player_position="" />
+    <player player_club="" player_name="Phil JONES" player_num="" player_position="" />
+    <player player_club="" player_name="Adam LALLANA" player_num="" player_position="" />
+    <player player_club="" player_name="Fraser FORSTER" player_num="" player_position="" />
+    <player player_club="" player_name="Ross BARKLEY" player_num="" player_position="" />
+    <player player_club="" player_name="Rickie LAMBERT" player_num="" player_position="" />
+  </team>
+  <team coach_name="" team_abbr="IRN" team_id="24" team_name="Irán">
+    <player player_club="" player_name="Javad NEKOUNAM" player_num="" player_position="" />
+    <player player_club="" player_name="Ashkan DEJAGAH" player_num="" player_position="" />
+    <player player_club="" player_name="Amirhossein SADEGHI" player_num="" player_position="" />
+    <player player_club="" player_name="Masoud SHOJAEI" player_num="" player_position="" />
+    <player player_club="" player_name="Andranik TIMOTIAN" player_num="" player_position="" />
+    <player player_club="" player_name="Pejman MONTAZERI" player_num="" player_position="" />
+    <player player_club="" player_name="Mehrdad POOLADI" player_num="" player_position="" />
+    <player player_club="" player_name="Jalal HOSSEINI" player_num="" player_position="" />
+    <player player_club="" player_name="Ehsan HAJI SAFI" player_num="" player_position="" />
+    <player player_club="" player_name="Ahmad ALNAMEH" player_num="" player_position="" />
+    <player player_club="" player_name="Hashem BEIKZADEH" player_num="" player_position="" />
+    <player player_club="" player_name="Rahman AHMADI" player_num="" player_position="" />
+    <player player_club="" player_name="Khosro HEYDARI" player_num="" player_position="" />
+    <player player_club="" player_name="Ghasem HADADIFAR" player_num="" player_position="" />
+    <player player_club="" player_name="Hossein MAHINI" player_num="" player_position="" />
+    <player player_club="" player_name="Karim ANSARI FARD" player_num="" player_position="" />
+    <player player_club="" player_name="Bakhtiar RAHMANI" player_num="" player_position="" />
+    <player player_club="" player_name="Alireza HAGHIGHI" player_num="" player_position="" />
+    <player player_club="" player_name="Reza HAGHIGHI" player_num="" player_position="" />
+    <player player_club="" player_name="Reza GHOOCHANNEJAD" player_num="" player_position="" />
+    <player player_club="" player_name="Alireza JAHAN BAKHSH" player_num="" player_position="" />
+    <player player_club="" player_name="Daniel DAVARI" player_num="" player_position="" />
+    <player player_club="" player_name="Steven BEITASHOUR" player_num="" player_position="" />
+  </team>
+  <team coach_name="Cesare PRANDELLI" team_abbr="ITA" team_id="25" team_name="Italia">
+    <player player_club="" player_name="Gianluigi BUFFON" player_num="" player_position="" />
+    <player player_club="" player_name="Thiago MOTTA" player_num="" player_position="" />
+    <player player_club="" player_name="Andrea PIRLO" player_num="" player_position="" />
+    <player player_club="" player_name="Antonio CASSANO" player_num="" player_position="" />
+    <player player_club="" player_name="Daniele DE ROSSI" player_num="" player_position="" />
+    <player player_club="" player_name="Andrea BARZAGLI" player_num="" player_position="" />
+    <player player_club="" player_name="Giorgio CHIELLINI" player_num="" player_position="" />
+    <player player_club="" player_name="Alberto AQUILANI" player_num="" player_position="" />
+    <player player_club="" player_name="Ignazio ABATE" player_num="" player_position="" />
+    <player player_club="" player_name="Alessio CERCI" player_num="" player_position="" />
+    <player player_club="" player_name="Gabriel PALETTA" player_num="" player_position="" />
+    <player player_club="" player_name="Matteo DARMIAN" player_num="" player_position="" />
+    <player player_club="" player_name="Salvatore SIRIGU" player_num="" player_position="" />
+    <player player_club="" player_name="Antonio CANDREVA" player_num="" player_position="" />
+    <player player_club="" player_name="Claudio MARCHISIO" player_num="" player_position="" />
+    <player player_club="" player_name="Mario BALOTELLI" player_num="" player_position="" />
+    <player player_club="" player_name="Ciro IMMOBILE" player_num="" player_position="" />
+    <player player_club="" player_name="Mattia PERIN" player_num="" player_position="" />
+    <player player_club="" player_name="Leonardo BONUCCI" player_num="" player_position="" />
+    <player player_club="" player_name="Marco VERRATTI" player_num="" player_position="" />
+    <player player_club="" player_name="Mattia DE SCIGLIO" player_num="" player_position="" />
+    <player player_club="" player_name="Lorenzo INSIGNE" player_num="" player_position="" />
+    <player player_club="" player_name="Marco PAROLO" player_num="" player_position="" />
+  </team>
+  <team coach_name="" team_abbr="JPN" team_id="26" team_name="Japón">
+    <player player_club="" player_name="Yasuhito ENDO" player_num="" player_position="" />
+    <player player_club="" player_name="Yoshito OKUBO" player_num="" player_position="" />
+    <player player_club="" player_name="Yasuyuki KONNO" player_num="" player_position="" />
+    <player player_club="" player_name="Eiji KAWASHIMA" player_num="" player_position="" />
+    <player player_club="" player_name="Shusaku NISHIKAWA" player_num="" player_position="" />
+    <player player_club="" player_name="Masahiko INOHA" player_num="" player_position="" />
+    <player player_club="" player_name="Keisuke HONDA" player_num="" player_position="" />
+    <player player_club="" player_name="Atsuto UCHIDA" player_num="" player_position="" />
+    <player player_club="" player_name="Masato MORISHIGE" player_num="" player_position="" />
+    <player player_club="" player_name="Shinji KAGAWA" player_num="" player_position="" />
+    <player player_club="" player_name="Toshihiro AOYAMA" player_num="" player_position="" />
+    <player player_club="" player_name="Maya YOSHIDA" player_num="" player_position="" />
+    <player player_club="" player_name="Yoichiro KAKITANI" player_num="" player_position="" />
+    <player player_club="" player_name="Manabu SAITO" player_num="" player_position="" />
+    <player player_club="" player_name="Yuya OSAKO" player_num="" player_position="" />
+    <player player_club="" player_name="Shinji OKAZAKI" player_num="" player_position="" />
+    <player player_club="" player_name="Makoto HASEBE" player_num="" player_position="" />
+    <player player_club="" player_name="Yuto NAGATOMO" player_num="" player_position="" />
+    <player player_club="" player_name="Shuichi GONDA" player_num="" player_position="" />
+    <player player_club="" player_name="Gotoku SAKAI" player_num="" player_position="" />
+    <player player_club="" player_name="Hiroshi KIYOTAKE" player_num="" player_position="" />
+    <player player_club="" player_name="Hiroki SAKAI" player_num="" player_position="" />
+    <player player_club="" player_name="Hotaru YAMAGUCHI" player_num="" player_position="" />
+  </team>
+  <team coach_name="Miguel HERRERA" team_abbr="MEX" team_id="27" team_name="México">
+    <player player_club="" player_name="Alfredo TALAVERA" player_num="" player_position="" />
+    <player player_club="" player_name="Rafael MARQUEZ" player_num="" player_position="" />
+    <player player_club="" player_name="Jose CORONA" player_num="" player_position="" />
+    <player player_club="" player_name="Francisco RODRIGUEZ" player_num="" player_position="" />
+    <player player_club="" player_name="Guillermo OCHOA" player_num="" player_position="" />
+    <player player_club="" player_name="Carlos SALCIDO" player_num="" player_position="" />
+    <player player_club="" player_name="Oribe PERALTA" player_num="" player_position="" />
+    <player player_club="" player_name="Javier HERNANDEZ" player_num="" player_position="" />
+    <player player_club="" player_name="Giovani DOS SANTOS" player_num="" player_position="" />
+    <player player_club="" player_name="Hector MORENO" player_num="" player_position="" />
+    <player player_club="" player_name="Andres GUARDADO" player_num="" player_position="" />
+    <player player_club="" player_name="Paul AGUILAR" player_num="" player_position="" />
+    <player player_club="" player_name="Carlos PENA" player_num="" player_position="" />
+    <player player_club="" player_name="Diego REYES" player_num="" player_position="" />
+    <player player_club="" player_name="Marco FABIAN" player_num="" player_position="" />
+    <player player_club="" player_name="Hector HERRERA" player_num="" player_position="" />
+    <player player_club="" player_name="Alan PULIDO" player_num="" player_position="" />
+    <player player_club="" player_name="Javier AQUINO" player_num="" player_position="" />
+    <player player_club="" player_name="Miguel PONCE" player_num="" player_position="" />
+    <player player_club="" player_name="Raul JIMENEZ" player_num="" player_position="" />
+    <player player_club="" player_name="Isaac BRIZUELA" player_num="" player_position="" />
+    <player player_club="" player_name="Miguel LAYUN" player_num="" player_position="" />
+    <player player_club="" player_name="Jose VAZQUEZ" player_num="" player_position="" />
+  </team>
+  <team coach_name="Stephen KESHI" team_abbr="NGA" team_id="28" team_name="Nigeria">
+    <player player_club="" player_name="Joseph YOBO" player_num="" player_position="" />
+    <player player_club="" player_name="Chigozie AGBIM" player_num="" player_position="" />
+    <player player_club="" player_name="Austine EJIDE" player_num="" player_position="" />
+    <player player_club="" player_name="Shola AMEOBI" player_num="" player_position="" />
+    <player player_club="" player_name="Vincent ENYEAMA" player_num="" player_position="" />
+    <player player_club="" player_name="Peter ODEMWINGIE" player_num="" player_position="" />
+    <player player_club="" player_name="John Obi MIKEL" player_num="" player_position="" />
+    <player player_club="" player_name="Efe AMBROSE" player_num="" player_position="" />
+    <player player_club="" player_name="Victor MOSES" player_num="" player_position="" />
+    <player player_club="" player_name="Okechukwu UCHEBO" player_num="" player_position="" />
+    <player player_club="" player_name="Michael BABATUNDE" player_num="" player_position="" />
+    <player player_club="" player_name="Kenneth OMERUO" player_num="" player_position="" />
+    <player player_club="" player_name="Ogenyi ONAZI" player_num="" player_position="" />
+    <player player_club="" player_name="Ramon AZEEZ" player_num="" player_position="" />
+    <player player_club="" player_name="Uche NWOFOR" player_num="" player_position="" />
+    <player player_club="" player_name="Ahmed MUSA" player_num="" player_position="" />
+    <player player_club="" player_name="Godfrey OBOABONA" player_num="" player_position="" />
+    <player player_club="" player_name="Ruben GABRIEL" player_num="" player_position="" />
+    <player player_club="" player_name="Azubuike EGWUEKWE" player_num="" player_position="" />
+    <player player_club="" player_name="Juwon OSHANIWA" player_num="" player_position="" />
+    <player player_club="" player_name="Ejike UZOENYI" player_num="" player_position="" />
+    <player player_club="" player_name="Emmanuel EMENIKE" player_num="" player_position="" />
+    <player player_club="" player_name="Ebenezer ODUNLAMI" player_num="" player_position="" />
+  </team>
+  <team coach_name="Fernando SANTOS" team_abbr="POR" team_id="29" team_name="Portugal">
+    <player player_club="" player_name="Helder POSTIGA" player_num="" player_position="" />
+    <player player_club="" player_name=" JOAO MOUTINHO" player_num="" player_position="" />
+    <player player_club="" player_name="Miguel VELOSO" player_num="" player_position="" />
+    <player player_club="" player_name=" VIEIRINHA" player_num="" player_position="" />
+    <player player_club="" player_name=" CRISTIANO RONALDO" player_num="" player_position="" />
+    <player player_club="" player_name="Ricardo COSTA" player_num="" player_position="" />
+    <player player_club="" player_name=" BRUNO ALVES" player_num="" player_position="" />
+    <player player_club="" player_name="Raul MEIRELES" player_num="" player_position="" />
+    <player player_club="" player_name=" BETO" player_num="" player_position="" />
+    <player player_club="" player_name="Joao PEREIRA" player_num="" player_position="" />
+    <player player_club="" player_name="Hugo ALMEIDA" player_num="" player_position="" />
+    <player player_club="" player_name=" VARELA" player_num="" player_position="" />
+    <player player_club="" player_name=" NANI" player_num="" player_position="" />
+    <player player_club="" player_name=" RUI PATRICIO" player_num="" player_position="" />
+    <player player_club="" player_name=" FABIO COENTRAO" player_num="" player_position="" />
+    <player player_club="" player_name=" PEPE" player_num="" player_position="" />
+    <player player_club="" player_name="Ruben AMORIM" player_num="" player_position="" />
+    <player player_club="" player_name=" EDUARDO" player_num="" player_position="" />
+    <player player_club="" player_name=" LUIS NETO" player_num="" player_position="" />
+    <player player_club="" player_name=" EDER" player_num="" player_position="" />
+    <player player_club="" player_name=" RAFA" player_num="" player_position="" />
+    <player player_club="" player_name="Andre ALMEIDA" player_num="" player_position="" />
+    <player player_club="" player_name=" WILLIAM" player_num="" player_position="" />
+  </team>
+  <team coach_name="" team_abbr="RUS" team_id="30" team_name="Rusia">
+    <player player_club="" player_name="Sergey IGNASHEVICH" player_num="" player_position="" />
+    <player player_club="" player_name="Vasily BEREZUTSKIY" player_num="" player_position="" />
+    <player player_club="" player_name="Aleksandr KERZHAKOV" player_num="" player_position="" />
+    <player player_club="" player_name="Igor AKINFEEV" player_num="" player_position="" />
+    <player player_club="" player_name="Yury ZHIRKOV" player_num="" player_position="" />
+    <player player_club="" player_name="Alexander SAMEDOV" player_num="" player_position="" />
+    <player player_club="" player_name="Igor DENISOV" player_num="" player_position="" />
+    <player player_club="" player_name="Victor FAYZULIN" player_num="" player_position="" />
+    <player player_club="" player_name="Dmitry KOMBAROV" player_num="" player_position="" />
+    <player player_club="" player_name="Alan DZAGOEV" player_num="" player_position="" />
+    <player player_club="" player_name="Vladimir GRANAT" player_num="" player_position="" />
+    <player player_club="" player_name="Alexander KOKORIN" player_num="" player_position="" />
+    <player player_club="" player_name="Denis GLUSHAKOV" player_num="" player_position="" />
+    <player player_club="" player_name="Georgy SHCHENNIKOV" player_num="" player_position="" />
+    <player player_club="" player_name="Alexey IONOV" player_num="" player_position="" />
+    <player player_club="" player_name="Maksim KANUNNIKOV" player_num="" player_position="" />
+    <player player_club="" player_name="Oleg SHATOV" player_num="" player_position="" />
+    <player player_club="" player_name="Andrey ESHCHENKO" player_num="" player_position="" />
+    <player player_club="" player_name="Sergey RYZHIKOV" player_num="" player_position="" />
+    <player player_club="" player_name="Yury LODYGIN" player_num="" player_position="" />
+    <player player_club="" player_name="Aleksei KOZLOV" player_num="" player_position="" />
+    <player player_club="" player_name="Andrey SEMENOV" player_num="" player_position="" />
+    <player player_club="" player_name="Pavel MOGILEVETC" player_num="" player_position="" />
+  </team>
+  <team coach_name="" team_abbr="SUI" team_id="31" team_name="Suiza">
+    <player player_club="" player_name="Stephan LICHTSTEINER" player_num="" player_position="" />
+    <player player_club="" player_name="Steve VON BERGEN" player_num="" player_position="" />
+    <player player_club="" player_name="Diego BENAGLIO" player_num="" player_position="" />
+    <player player_club="" player_name="Tranquillo BARNETTA" player_num="" player_position="" />
+    <player player_club="" player_name="Philippe SENDEROS" player_num="" player_position="" />
+    <player player_club="" player_name="Valon BEHRAMI" player_num="" player_position="" />
+    <player player_club="" player_name="Reto ZIEGLER" player_num="" player_position="" />
+    <player player_club="" player_name="Johan DJOUROU" player_num="" player_position="" />
+    <player player_club="" player_name="Blerim DZEMAILI" player_num="" player_position="" />
+    <player player_club="" player_name="Gelson FERNANDES" player_num="" player_position="" />
+    <player player_club="" player_name="Gokhan INLER" player_num="" player_position="" />
+    <player player_club="" player_name="Valentin STOCKER" player_num="" player_position="" />
+    <player player_club="" player_name="Haris SEFEROVIC" player_num="" player_position="" />
+    <player player_club="" player_name="Granit XHAKA" player_num="" player_position="" />
+    <player player_club="" player_name="Ricardo RODRIGUEZ" player_num="" player_position="" />
+    <player player_club="" player_name="Yann SOMMER" player_num="" player_position="" />
+    <player player_club="" player_name="Mario GAVRANOVIC" player_num="" player_position="" />
+    <player player_club="" player_name="Xherdan SHAQIRI" player_num="" player_position="" />
+    <player player_club="" player_name="Josip DRMIC" player_num="" player_position="" />
+    <player player_club="" player_name="Michael LANG" player_num="" player_position="" />
+    <player player_club="" player_name="Admir MEHMEDI" player_num="" player_position="" />
+    <player player_club="" player_name="Fabian SCHAER" player_num="" player_position="" />
+    <player player_club="" player_name="Roman BUERKI" player_num="" player_position="" />
+  </team>
+  <team coach_name="Oscar TABAREZ" team_abbr="URU" team_id="32" team_name="Uruguay">
+    <player player_club="" player_name="Martin SILVA" player_num="" player_position="" />
+    <player player_club="" player_name="Diego PEREZ" player_num="" player_position="" />
+    <player player_club="" player_name="Diego FORLAN" player_num="" player_position="" />
+    <player player_club="" player_name="Cristian RODRIGUEZ" player_num="" player_position="" />
+    <player player_club="" player_name="Fernando MUSLERA" player_num="" player_position="" />
+    <player player_club="" player_name="Diego GODIN" player_num="" player_position="" />
+    <player player_club="" player_name="Alvaro PEREIRA" player_num="" player_position="" />
+    <player player_club="" player_name="Cristhian STUANI" player_num="" player_position="" />
+    <player player_club="" player_name="Diego LUGANO" player_num="" player_position="" />
+    <player player_club="" player_name="Martin CACERES" player_num="" player_position="" />
+    <player player_club="" player_name="Edinson CAVANI" player_num="" player_position="" />
+    <player player_club="" player_name="Luis SUAREZ" player_num="" player_position="" />
+    <player player_club="" player_name="Walter GARGANO" player_num="" player_position="" />
+    <player player_club="" player_name="Jorge FUCILE" player_num="" player_position="" />
+    <player player_club="" player_name="Egidio AREVALO" player_num="" player_position="" />
+    <player player_club="" player_name="Alvaro GONZALEZ" player_num="" player_position="" />
+    <player player_club="" player_name="Maximiliano PEREIRA" player_num="" player_position="" />
+    <player player_club="" player_name="Abel HERNANDEZ" player_num="" player_position="" />
+    <player player_club="" player_name="Nicolas LODEIRO" player_num="" player_position="" />
+    <player player_club="" player_name="Sebastian COATES" player_num="" player_position="" />
+    <player player_club="" player_name="Gaston RAMIREZ" player_num="" player_position="" />
+    <player player_club="" player_name="Rodrigo MUNOZ" player_num="" player_position="" />
+    <player player_club="" player_name="Jose GIMENEZ" player_num="" player_position="" />
+  </team>
+</Teams>

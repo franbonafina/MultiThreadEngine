@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dictionary>
+  <team short_name="ALG" short_name_spanish="ALG" long_name_spanish="Argelia" long_name="Algeria" id_output="2" id="43843" group="H" />
+  <team short_name="ARG" short_name_spanish="ARG" long_name_spanish="Argentina" long_name="Argentina" id_output="3" id="43922" group="F" />
+  <team short_name="AUS" short_name_spanish="AUS" long_name_spanish="Australia" long_name="Australia" id_output="4" id="43976" group="B" />
+  <team short_name="BEL" short_name_spanish="BEL" long_name_spanish="Bélgica" long_name="Belgium" id_output="5" id="43935" group="H" />
+  <team short_name="BIH" short_name_spanish="BIH" long_name_spanish="Bosnia" long_name="Bosnia and Herzegovina" id_output="6" id="44037" group="F" />
+  <team short_name="BRA" short_name_spanish="BRA" long_name_spanish="Brasil" long_name="Brazil" id_output="7" id="43924" group="A" />
+  <team short_name="CMR" short_name_spanish="CMR" long_name_spanish="Camerun" long_name="Cameroon" id_output="9" id="43849" group="A" />
+  <team short_name="CHI" short_name_spanish="CHI" long_name_spanish="Chile" long_name="Chile" id_output="10" id="43925" group="B" />
+  <team short_name="COL" short_name_spanish="COL" long_name_spanish="Colombia" long_name="Colombia" id_output="11" id="43926" group="C" />
+  <team short_name="CRC" short_name_spanish="CRC" long_name_spanish="Costa Rica" long_name="Costa Rica" id_output="13" id="43901" group="D" />
+  <team short_name="CIV" short_name_spanish="CIV" long_name_spanish="C. de Marfil" long_name="Côte d'Ivoire" id_output="8" id="43854" group="C" />
+  <team short_name="CRO" short_name_spanish="CRO" long_name_spanish="Croacia" long_name="Croatia" id_output="14" id="43938" group="A" />
+  <team short_name="ECU" short_name_spanish="ECU" long_name_spanish="Ecuador" long_name="Ecuador" id_output="15" id="43927" group="E" />
+  <team short_name="ENG" short_name_spanish="ENG" long_name_spanish="Inglaterra" long_name="England" id_output="23" id="43942" group="D" />
+  <team short_name="FRA" short_name_spanish="FRA" long_name_spanish="Francia" long_name="France" id_output="18" id="43946" group="E" />
+  <team short_name="GER" short_name_spanish="ALE" long_name_spanish="Alemania" long_name="Germany" id_output="1" id="43948" group="G" />
+  <team short_name="GHA" short_name_spanish="GHA" long_name_spanish="Ghana" long_name="Ghana" id_output="19" id="43860" group="G" />
+  <team short_name="GRE" short_name_spanish="GRE" long_name_spanish="Grecia" long_name="Greece" id_output="20" id="43949" group="C" />
+  <team short_name="HON" short_name_spanish="HON" long_name_spanish="Honduras" long_name="Honduras" id_output="22" id="43909" group="E" />
+  <team short_name="IRN" short_name_spanish="IRN" long_name_spanish="Irán" long_name="IR Iran" id_output="24" id="43817" group="F" />
+  <team short_name="ITA" short_name_spanish="ITA" long_name_spanish="Italia" long_name="Italy" id_output="25" id="43954" group="D" />
+  <team short_name="JPN" short_name_spanish="JPN" long_name_spanish="Japón" long_name="Japan" id_output="26" id="43819" group="C" />
+  <team short_name="KOR" short_name_spanish="KOR" long_name_spanish="Core del S." long_name="Korea Republic" id_output="12" id="43822" group="H" />
+  <team short_name="MEX" short_name_spanish="MEX" long_name_spanish="México" long_name="Mexico" id_output="27" id="43911" group="A" />
+  <team short_name="NED" short_name_spanish="NED" long_name_spanish="Holanda" long_name="Netherlands" id_output="21" id="43960" group="B" />
+  <team short_name="NGA" short_name_spanish="NGA" long_name_spanish="Nigeria" long_name="Nigeria" id_output="28" id="43876" group="F" />
+  <team short_name="POR" short_name_spanish="POR" long_name_spanish="Portugal" long_name="Portugal" id_output="29" id="43963" group="G" />
+  <team short_name="RUS" short_name_spanish="RUS" long_name_spanish="Rusia" long_name="Russia" id_output="30" id="43965" group="H" />
+  <team short_name="ESP" short_name_spanish="ESP" long_name_spanish="España" long_name="Spain" id_output="17" id="43969" group="B" />
+  <team short_name="SUI" short_name_spanish="SUI" long_name_spanish="Suiza" long_name="Switzerland" id_output="31" id="43971" group="E" />
+  <team short_name="URU" short_name_spanish="URU" long_name_spanish="Uruguay" long_name="Uruguay" id_output="32" id="43930" group="D" />
+  <team short_name="USA" short_name_spanish="USA" long_name_spanish="EEUU" long_name="USA" id_output="16" id="43921" group="G" />
+</Dictionary>
